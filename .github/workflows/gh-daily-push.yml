@@ -1,0 +1,60 @@
+name: GitHub 推送仪表盘 · 定时抓取与注入
+
+on:
+  schedule:
+    # 北京时间 09:10 / 17:10 / 01:10（UTC 01:10 / 09:10 / 17:10）
+    - cron: '10 1,9,17 * * *'
+  workflow_dispatch:        # 支持手动重跑
+    inputs:
+      max_directions:
+        description: '抓取多少个画像方向（越少越快，最多 8）'
+        required: false
+        default: '8'
+
+permissions:
+  contents: write           # 需要提交抓取结果与注入后的页面
+
+concurrency:
+  group: gh-push-dashboard
+  cancel-in-progress: false
+
+jobs:
+  fetch-and-inject:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      # Actions 自带的 token 只用于读公开数据，可把搜索限流从 10/分 提到 30/分
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_REPOSITORY: ${{ github.repository }}
+      GITHUB_RUN_ID: ${{ github.run_id }}
+      GITHUB_WORKFLOW: gh-daily-push.yml
+      WORKFLOW_SCHEDULE: '10 1,9,17 * * *'
+      MAX_DIRECTIONS: ${{ inputs.max_directions || '8' }}
+      DELAY_MS: '2200'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 抓取数据（失败自动回退到上一次成功快照）
+        run: node scripts/fetch_data.mjs
+
+      - name: 注入数据到单文件页面
+        run: node scripts/inject_data.mjs
+
+      - name: 验收自检（144 项）
+        run: node test/verify.mjs
+
+      - name: 提交变更
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有变更，跳过提交"
+          else
+            git commit -m "chore(data): 更新 GitHub 推送快照与仪表盘页面 [skip ci]"
+            git push
+          fi
