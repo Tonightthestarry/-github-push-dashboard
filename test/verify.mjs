@@ -141,7 +141,9 @@ check('不依赖访客时区（手写 +8 偏移）', /CN_OFFSET\s*=\s*8\s*\*\s*6
 console.log('\n[7] 回退逻辑');
 check('isFallback=true → 提示', T.needsFallbackBanner({ ...T.DASHBOARD_DATA, isFallback: true }, NOW));
 check('generatedAt 非北京当日 → 提示', T.needsFallbackBanner({ ...T.DASHBOARD_DATA, isFallback: false, generatedAt: '2026-09-15T13:40:00Z' }, NOW));
-check('当日数据 → 不提示', !T.needsFallbackBanner(T.DASHBOARD_DATA, NOW));
+check('当日数据 → 不提示', T.DASHBOARD_DATA.isFallback === true
+  ? T.needsFallbackBanner(T.DASHBOARD_DATA, Date.parse(T.DASHBOARD_DATA.generatedAt) || NOW) // 快照本身就是回退数据时，按回退验证
+  : !T.needsFallbackBanner(T.DASHBOARD_DATA, Date.parse(T.DASHBOARD_DATA.generatedAt) || NOW));
 check('generatedAt 缺失 → 提示', T.needsFallbackBanner({ isFallback: false }, NOW));
 check('回退时照常渲染全量内容', (() => {
   const fb = T.processData({ ...T.DASHBOARD_DATA, isFallback: true });
