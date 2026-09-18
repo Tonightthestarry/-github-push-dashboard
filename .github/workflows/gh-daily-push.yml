@@ -8,6 +8,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: gh-daily-push
@@ -27,6 +29,7 @@ jobs:
       # 成功写 data/snapshot.json + data.json（isFallback=false），
       # 失败不覆盖 snapshot，data.json 复制旧快照并置 isFallback=true
       - name: 抓取数据生成 data.json
+        continue-on-error: true # 抓取失败也继续：注入回退快照、照常提交最新运行状态
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/fetch_data.mjs
@@ -48,9 +51,21 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: 更新推送数据 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git push
 
-      # 如需部署到 GitHub Pages：仓库 Settings → Pages → Source 选 GitHub Actions，
-      # 并取消下面三行注释
-      # - uses: actions/upload-pages-artifact@v3
-      #   with:
-      #     path: .
-      # - uses: actions/deploy-pages@v4
+      - name: 上传 Pages artifact
+        if: github.ref == 'refs/heads/master' && always()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  # 部署独立 job：即使抓取失败也照常发布上次的页面
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

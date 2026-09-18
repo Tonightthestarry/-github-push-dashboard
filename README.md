@@ -47,7 +47,7 @@ github-push-dashboard/
 ## 三、快速开始
 
 ```bash
-# 1. 抓取真实数据（匿名调用 GitHub 公开 API）
+# 1. 抓取真实数据（本机匿名；Actions 内自动带 GITHUB_TOKEN 提限额）
 node scripts/fetch_data.mjs
 
 # 2. 注入到页面
