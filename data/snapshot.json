@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T20:24:00.062Z",
-  "lastSuccessAt": "2026-10-21T20:24:00.062Z",
+  "generatedAt": "2026-10-22T05:33:32.987Z",
+  "lastSuccessAt": "2026-10-22T05:33:32.987Z",
   "isFallback": false,
   "source": {
     "repo": "Tonightthestarry/-github-push-dashboard",
     "workflow": "GitHub Daily Push",
     "schedule": "0 1,9,17 * * *",
-    "runId": "39669942782",
-    "runUrl": "https://github.com/Tonightthestarry/-github-push-dashboard/actions/runs/39669942782",
+    "runId": "39728700223",
+    "runUrl": "https://github.com/Tonightthestarry/-github-push-dashboard/actions/runs/39728700223",
     "scope": "画像方向 软件测试与质量保障、AI Agent / RAG、大数据 Spark/Hadoop、数据分析与可视化、机器学习与计算机视觉、Java 全栈与后端工程、跨境电商与爬虫运营、自动化与效率工具 + 关注仓库 Releases + arXiv 论文 + 技术资讯",
     "profileDriven": true,
     "directions": [
@@ -55,10 +55,10 @@
           "url": "https://github.com/microsoft/playwright",
           "source": "microsoft/playwright",
           "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-          "publishedAt": "2026-10-21T17:08:32Z",
+          "publishedAt": "2026-10-22T04:20:25Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 98230,
+          "stars": 98248,
           "starsToday": null,
           "topics": [
             "automation",
@@ -75,11 +75,11 @@
             "testing"
           ],
           "forks": 6667,
-          "openIssues": 186,
+          "openIssues": 187,
           "archived": false,
           "createdAt": "2019-11-15T18:32:42Z",
-          "pushedAt": "2026-10-21T17:08:32Z",
-          "sizeKb": 245782,
+          "pushedAt": "2026-10-22T04:20:25Z",
+          "sizeKb": 245905,
           "direction": "软件测试与质量保障"
         },
         {
@@ -90,7 +90,7 @@
           "publishedAt": "2026-10-21T20:07:02Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 95728,
+          "stars": 95730,
           "starsToday": null,
           "topics": [
             "automation",
@@ -103,12 +103,12 @@
             "testing",
             "web"
           ],
-          "forks": 9571,
-          "openIssues": 228,
+          "forks": 9573,
+          "openIssues": 230,
           "archived": false,
           "createdAt": "2017-05-09T22:16:13Z",
           "pushedAt": "2026-10-21T20:07:02Z",
-          "sizeKb": 1593494,
+          "sizeKb": 1593721,
           "direction": "软件测试与质量保障"
         },
         {
@@ -116,10 +116,10 @@
           "url": "https://github.com/usebruno/bruno",
           "source": "usebruno/bruno",
           "summary": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
-          "publishedAt": "2026-10-19T10:09:22Z",
+          "publishedAt": "2026-10-22T04:10:51Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 47797,
+          "stars": 47802,
           "starsToday": null,
           "topics": [
             "api-client",
@@ -135,12 +135,12 @@
             "opensource",
             "rest-api"
           ],
-          "forks": 3017,
-          "openIssues": 1913,
+          "forks": 3020,
+          "openIssues": 1914,
           "archived": false,
           "createdAt": "2022-09-27T20:51:45Z",
-          "pushedAt": "2026-10-19T10:09:22Z",
-          "sizeKb": 66597,
+          "pushedAt": "2026-10-22T04:10:51Z",
+          "sizeKb": 66610,
           "direction": "软件测试与质量保障"
         },
         {
@@ -151,7 +151,7 @@
           "publishedAt": "2026-10-21T17:07:50Z",
           "type": "trending",
           "language": "C#",
-          "stars": 16397,
+          "stars": 16404,
           "starsToday": null,
           "topics": [
             "auto-play-game",
@@ -161,7 +161,7 @@
             "genshin-impact",
             "yuanshen"
           ],
-          "forks": 1212,
+          "forks": 1213,
           "openIssues": 536,
           "archived": false,
           "createdAt": "2023-08-27T01:02:45Z",
@@ -174,7 +174,7 @@
           "url": "https://github.com/dagger/dagger",
           "source": "dagger/dagger",
           "summary": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
-          "publishedAt": "2026-10-21T20:11:33Z",
+          "publishedAt": "2026-10-22T03:29:11Z",
           "type": "trending",
           "language": "Go",
           "stars": 16358,
@@ -192,11 +192,11 @@
             "workflows"
           ],
           "forks": 936,
-          "openIssues": 221,
+          "openIssues": 226,
           "archived": false,
           "createdAt": "2019-11-20T01:31:51Z",
-          "pushedAt": "2026-10-21T20:11:33Z",
-          "sizeKb": 268645,
+          "pushedAt": "2026-10-22T03:29:11Z",
+          "sizeKb": 270363,
           "direction": "软件测试与质量保障"
         },
         {
@@ -204,7 +204,7 @@
           "url": "https://github.com/microsoft/playwright-python",
           "source": "microsoft/playwright-python",
           "summary": "Python version of the Playwright testing and automation library.",
-          "publishedAt": "2026-10-21T16:14:50Z",
+          "publishedAt": "2026-10-21T23:33:39Z",
           "type": "trending",
           "language": "Python",
           "stars": 15058,
@@ -219,8 +219,8 @@
           "openIssues": 4,
           "archived": false,
           "createdAt": "2020-07-01T15:28:13Z",
-          "pushedAt": "2026-10-21T16:14:50Z",
-          "sizeKb": 16322,
+          "pushedAt": "2026-10-21T23:33:39Z",
+          "sizeKb": 16402,
           "direction": "软件测试与质量保障"
         },
         {
@@ -228,10 +228,10 @@
           "url": "https://github.com/morluto/rea",
           "source": "morluto/rea",
           "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-          "publishedAt": "2026-10-21T20:21:30Z",
+          "publishedAt": "2026-10-22T05:26:53Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 356729,
+          "stars": 359546,
           "starsToday": null,
           "topics": [
             "agent-skills",
@@ -247,12 +247,12 @@
             "dsh-plugin",
             "ghidra"
           ],
-          "forks": 89559,
-          "openIssues": 1619,
+          "forks": 90262,
+          "openIssues": 1643,
           "archived": false,
           "createdAt": "2026-04-14T00:51:32Z",
-          "pushedAt": "2026-10-21T20:21:30Z",
-          "sizeKb": 94486,
+          "pushedAt": "2026-10-22T05:26:53Z",
+          "sizeKb": 96591,
           "direction": "AI Agent / RAG"
         },
         {
@@ -263,7 +263,7 @@
           "publishedAt": "2026-10-20T23:08:28Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 285558,
+          "stars": 285868,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -275,7 +275,7 @@
             "mcp",
             "productivity"
           ],
-          "forks": 42354,
+          "forks": 42406,
           "openIssues": 247,
           "archived": false,
           "createdAt": "2026-01-18T00:51:51Z",
@@ -288,10 +288,10 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "source": "NousResearch/hermes-agent",
           "summary": "The agent that grows with you",
-          "publishedAt": "2026-10-21T20:21:45Z",
+          "publishedAt": "2026-10-22T04:13:09Z",
           "type": "trending",
           "language": "Python",
-          "stars": 255849,
+          "stars": 256017,
           "starsToday": null,
           "topics": [
             "ai",
@@ -307,12 +307,12 @@
             "llm",
             "nous-research"
           ],
-          "forks": 55782,
-          "openIssues": 50442,
+          "forks": 55866,
+          "openIssues": 50441,
           "archived": false,
           "createdAt": "2025-07-22T22:22:28Z",
-          "pushedAt": "2026-10-21T20:21:45Z",
-          "sizeKb": 1295025,
+          "pushedAt": "2026-10-22T04:13:09Z",
+          "sizeKb": 1295446,
           "direction": "AI Agent / RAG"
         },
         {
@@ -320,10 +320,10 @@
           "url": "https://github.com/firecrawl/firecrawl",
           "source": "firecrawl/firecrawl",
           "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-          "publishedAt": "2026-10-21T20:03:10Z",
+          "publishedAt": "2026-10-22T05:27:58Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 193876,
+          "stars": 193987,
           "starsToday": null,
           "topics": [
             "ai",
@@ -339,12 +339,12 @@
             "scraper",
             "scraping"
           ],
-          "forks": 10226,
-          "openIssues": 639,
+          "forks": 10235,
+          "openIssues": 645,
           "archived": false,
           "createdAt": "2024-04-15T21:02:29Z",
-          "pushedAt": "2026-10-21T20:03:10Z",
-          "sizeKb": 187079,
+          "pushedAt": "2026-10-22T05:27:58Z",
+          "sizeKb": 186559,
           "direction": "AI Agent / RAG"
         },
         {
@@ -355,7 +355,7 @@
           "publishedAt": "2026-10-18T01:55:14Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 171346,
+          "stars": 172023,
           "starsToday": null,
           "topics": [
             "agent-skills",
@@ -369,8 +369,8 @@
             "prompt-engineering",
             "yagni"
           ],
-          "forks": 9326,
-          "openIssues": 67,
+          "forks": 9362,
+          "openIssues": 74,
           "archived": false,
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-10-18T01:55:14Z",
@@ -382,10 +382,10 @@
           "url": "https://github.com/langgenius/dify",
           "source": "langgenius/dify",
           "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "publishedAt": "2026-10-21T17:17:25Z",
+          "publishedAt": "2026-10-22T05:33:19Z",
           "type": "trending",
           "language": "Python",
-          "stars": 159151,
+          "stars": 159183,
           "starsToday": null,
           "topics": [
             "agent",
@@ -401,12 +401,12 @@
             "llm",
             "low-code"
           ],
-          "forks": 25152,
-          "openIssues": 1149,
+          "forks": 25161,
+          "openIssues": 1150,
           "archived": false,
           "createdAt": "2023-04-12T07:40:24Z",
-          "pushedAt": "2026-10-21T17:17:25Z",
-          "sizeKb": 638034,
+          "pushedAt": "2026-10-22T05:33:19Z",
+          "sizeKb": 638134,
           "direction": "AI Agent / RAG"
         },
         {
@@ -417,7 +417,7 @@
           "publishedAt": "2026-10-15T13:49:30Z",
           "type": "trending",
           "language": "Jupyter Notebook",
-          "stars": 46330,
+          "stars": 46342,
           "starsToday": null,
           "topics": [
             "course",
@@ -429,8 +429,8 @@
             "kestra",
             "spark"
           ],
-          "forks": 8990,
-          "openIssues": 6,
+          "forks": 8992,
+          "openIssues": 7,
           "archived": false,
           "createdAt": "2021-10-21T09:32:50Z",
           "pushedAt": "2026-10-15T13:49:30Z",
@@ -561,10 +561,10 @@
           "url": "https://github.com/grafana/grafana",
           "source": "grafana/grafana",
           "summary": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-          "publishedAt": "2026-10-21T20:18:52Z",
+          "publishedAt": "2026-10-22T05:30:48Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 77405,
+          "stars": 77414,
           "starsToday": null,
           "topics": [
             "alerting",
@@ -580,12 +580,12 @@
             "metrics",
             "monitoring"
           ],
-          "forks": 14849,
-          "openIssues": 3340,
+          "forks": 14848,
+          "openIssues": 3350,
           "archived": false,
           "createdAt": "2013-12-11T15:59:56Z",
-          "pushedAt": "2026-10-21T20:18:52Z",
-          "sizeKb": 2074523,
+          "pushedAt": "2026-10-22T05:30:48Z",
+          "sizeKb": 2075452,
           "direction": "数据分析与可视化"
         },
         {
@@ -593,10 +593,10 @@
           "url": "https://github.com/metabase/metabase",
           "source": "metabase/metabase",
           "summary": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
-          "publishedAt": "2026-10-21T20:22:21Z",
+          "publishedAt": "2026-10-22T05:20:52Z",
           "type": "trending",
           "language": "Clojure",
-          "stars": 49785,
+          "stars": 49790,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -612,12 +612,12 @@
             "metabase",
             "mysql"
           ],
-          "forks": 6920,
-          "openIssues": 4577,
+          "forks": 6922,
+          "openIssues": 4596,
           "archived": false,
           "createdAt": "2015-02-02T19:25:47Z",
-          "pushedAt": "2026-10-21T20:22:21Z",
-          "sizeKb": 2473690,
+          "pushedAt": "2026-10-22T05:20:52Z",
+          "sizeKb": 2487364,
           "direction": "数据分析与可视化"
         },
         {
@@ -628,7 +628,7 @@
           "publishedAt": "2026-10-16T08:38:46Z",
           "type": "trending",
           "language": "Python",
-          "stars": 28841,
+          "stars": 28843,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -644,8 +644,8 @@
             "mysql",
             "postgresql"
           ],
-          "forks": 4637,
-          "openIssues": 818,
+          "forks": 4636,
+          "openIssues": 817,
           "archived": false,
           "createdAt": "2013-10-28T13:19:39Z",
           "pushedAt": "2026-10-16T08:38:46Z",
@@ -657,10 +657,10 @@
           "url": "https://github.com/plotly/plotly.py",
           "source": "plotly/plotly.py",
           "summary": "The interactive graphing library for Python :sparkles:",
-          "publishedAt": "2026-10-20T15:14:53Z",
+          "publishedAt": "2026-10-22T01:59:04Z",
           "type": "trending",
           "language": "Python",
-          "stars": 18852,
+          "stars": 18853,
           "starsToday": null,
           "topics": [
             "d3",
@@ -677,11 +677,11 @@
             "sparkles"
           ],
           "forks": 2877,
-          "openIssues": 741,
+          "openIssues": 738,
           "archived": false,
           "createdAt": "2013-11-21T05:53:08Z",
-          "pushedAt": "2026-10-20T15:14:53Z",
-          "sizeKb": 428333,
+          "pushedAt": "2026-10-22T01:59:04Z",
+          "sizeKb": 428076,
           "direction": "数据分析与可视化"
         },
         {
@@ -692,7 +692,7 @@
           "publishedAt": "2026-10-21T00:43:54Z",
           "type": "trending",
           "language": "Rust",
-          "stars": 11334,
+          "stars": 11333,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -708,7 +708,7 @@
             "jupyter",
             "pivot-table"
           ],
-          "forks": 1349,
+          "forks": 1350,
           "openIssues": 34,
           "archived": false,
           "createdAt": "2017-11-02T16:27:54Z",
@@ -721,10 +721,10 @@
           "url": "https://github.com/evidence-dev/evidence",
           "source": "evidence-dev/evidence",
           "summary": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
-          "publishedAt": "2026-10-21T20:04:27Z",
+          "publishedAt": "2026-10-22T01:01:18Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 7045,
+          "stars": 7046,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -744,8 +744,8 @@
           "openIssues": 15,
           "archived": false,
           "createdAt": "2021-05-27T03:50:19Z",
-          "pushedAt": "2026-10-21T20:04:27Z",
-          "sizeKb": 319026,
+          "pushedAt": "2026-10-22T01:01:18Z",
+          "sizeKb": 319085,
           "direction": "数据分析与可视化"
         },
         {
@@ -756,13 +756,13 @@
           "publishedAt": "2026-10-09T07:38:10Z",
           "type": "trending",
           "language": "Python",
-          "stars": 5615,
+          "stars": 5616,
           "starsToday": null,
           "topics": [
             "rtdetr",
             "rtdetrv2"
           ],
-          "forks": 667,
+          "forks": 668,
           "openIssues": 422,
           "archived": false,
           "createdAt": "2023-05-10T06:35:56Z",
@@ -778,7 +778,7 @@
           "publishedAt": "2026-10-21T16:41:37Z",
           "type": "trending",
           "language": "Python",
-          "stars": 3647,
+          "stars": 3648,
           "starsToday": null,
           "topics": [
             "coral",
@@ -803,25 +803,6 @@
           "direction": "机器学习与计算机视觉"
         },
         {
-          "title": "Geekgineer/YOLOs-CPP",
-          "url": "https://github.com/Geekgineer/YOLOs-CPP",
-          "source": "Geekgineer/YOLOs-CPP",
-          "summary": "Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and OpenCV. Optimized for CPU/GPU with quantization support.",
-          "publishedAt": "2026-08-23T17:16:18Z",
-          "type": "trending",
-          "language": "C++",
-          "stars": 1097,
-          "starsToday": null,
-          "topics": [],
-          "forks": 166,
-          "openIssues": 1,
-          "archived": false,
-          "createdAt": "2024-10-09T07:33:13Z",
-          "pushedAt": "2026-08-23T17:16:18Z",
-          "sizeKb": 526414,
-          "direction": "机器学习与计算机视觉"
-        },
-        {
           "title": "macrozheng/mall",
           "url": "https://github.com/macrozheng/mall",
           "source": "macrozheng/mall",
@@ -829,7 +810,7 @@
           "publishedAt": "2026-09-15T02:34:44Z",
           "type": "trending",
           "language": "Java",
-          "stars": 84936,
+          "stars": 84935,
           "starsToday": null,
           "topics": [
             "docker",
@@ -845,7 +826,7 @@
             "spring-boot",
             "spring-cloud"
           ],
-          "forks": 29841,
+          "forks": 29838,
           "openIssues": 16,
           "archived": false,
           "createdAt": "2018-04-04T01:11:44Z",
@@ -861,7 +842,7 @@
           "publishedAt": "2026-10-21T14:40:07Z",
           "type": "trending",
           "language": "Java",
-          "stars": 81754,
+          "stars": 81756,
           "starsToday": null,
           "topics": [
             "framework",
@@ -869,8 +850,8 @@
             "spring",
             "spring-boot"
           ],
-          "forks": 44815,
-          "openIssues": 491,
+          "forks": 44866,
+          "openIssues": 492,
           "archived": false,
           "createdAt": "2012-10-19T15:02:57Z",
           "pushedAt": "2026-10-21T14:40:07Z",
@@ -885,7 +866,7 @@
           "publishedAt": "2026-10-21T18:08:18Z",
           "type": "trending",
           "language": "Java",
-          "stars": 39968,
+          "stars": 39971,
           "starsToday": null,
           "topics": [
             "flowable",
@@ -897,7 +878,7 @@
             "springboot",
             "vue"
           ],
-          "forks": 8609,
+          "forks": 8610,
           "openIssues": 37,
           "archived": false,
           "createdAt": "2021-01-24T03:18:25Z",
@@ -913,7 +894,7 @@
           "publishedAt": "2026-10-08T07:58:17Z",
           "type": "trending",
           "language": "Java",
-          "stars": 14787,
+          "stars": 14788,
           "starsToday": null,
           "topics": [
             "docx",
@@ -926,7 +907,7 @@
             "pdf",
             "word"
           ],
-          "forks": 3334,
+          "forks": 3337,
           "openIssues": 39,
           "archived": false,
           "createdAt": "2017-12-12T11:41:08Z",
@@ -958,8 +939,8 @@
             "llm",
             "llms"
           ],
-          "forks": 2627,
-          "openIssues": 1030,
+          "forks": 2630,
+          "openIssues": 1031,
           "archived": false,
           "createdAt": "2023-06-20T15:30:29Z",
           "pushedAt": "2026-10-21T16:15:10Z",
@@ -974,7 +955,7 @@
           "publishedAt": "2026-10-19T10:32:32Z",
           "type": "trending",
           "language": "Python",
-          "stars": 35185,
+          "stars": 35198,
           "starsToday": null,
           "topics": [
             "back-in-stock",
@@ -991,7 +972,7 @@
             "website-change-detection"
           ],
           "forks": 2171,
-          "openIssues": 405,
+          "openIssues": 404,
           "archived": false,
           "createdAt": "2021-01-27T16:03:30Z",
           "pushedAt": "2026-10-19T10:32:32Z",
@@ -1006,7 +987,7 @@
           "publishedAt": "2026-10-20T22:15:42Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 20700,
+          "stars": 20743,
           "starsToday": null,
           "topics": [
             "coderabbit",
@@ -1016,7 +997,7 @@
             "stock-market",
             "tailwindcss"
           ],
-          "forks": 2551,
+          "forks": 2557,
           "openIssues": 5,
           "archived": false,
           "createdAt": "2025-09-28T18:16:32Z",
@@ -1032,7 +1013,7 @@
           "publishedAt": "2026-10-21T08:05:53Z",
           "type": "trending",
           "language": "Go",
-          "stars": 10704,
+          "stars": 10703,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -1064,7 +1045,7 @@
           "publishedAt": "2026-10-11T12:16:16Z",
           "type": "trending",
           "language": "PHP",
-          "stars": 1431,
+          "stars": 1433,
           "starsToday": null,
           "topics": [
             "open-source",
@@ -1087,10 +1068,10 @@
           "url": "https://github.com/Cybrarist/Discount-Bandit",
           "source": "Cybrarist/Discount-Bandit",
           "summary": "A Multi-User Selfhosted price tracker for Amazon, Aliexpress, ebay and many more along with custom stores. Get notified when price matches one or more criterias set by the user",
-          "publishedAt": "2026-10-21T05:54:28Z",
+          "publishedAt": "2026-10-22T05:00:04Z",
           "type": "trending",
           "language": "PHP",
-          "stars": 753,
+          "stars": 754,
           "starsToday": null,
           "topics": [
             "amazon-price-tracker",
@@ -1110,7 +1091,7 @@
           "openIssues": 8,
           "archived": false,
           "createdAt": "2023-07-06T13:53:55Z",
-          "pushedAt": "2026-10-21T05:54:28Z",
+          "pushedAt": "2026-10-22T05:00:04Z",
           "sizeKb": 8954,
           "direction": "跨境电商与爬虫运营"
         },
@@ -1119,7 +1100,7 @@
           "url": "https://github.com/elsbrock/hetzner-radar",
           "source": "elsbrock/hetzner-radar",
           "summary": "🕵️Track prices of the Hetzner dedicated server auction",
-          "publishedAt": "2026-10-21T20:24:14Z",
+          "publishedAt": "2026-10-22T05:16:13Z",
           "type": "trending",
           "language": "TypeScript",
           "stars": 403,
@@ -1136,11 +1117,11 @@
             "wasm"
           ],
           "forks": 18,
-          "openIssues": 12,
+          "openIssues": 11,
           "archived": false,
           "createdAt": "2024-08-12T09:27:15Z",
-          "pushedAt": "2026-10-21T20:24:14Z",
-          "sizeKb": 43184,
+          "pushedAt": "2026-10-22T05:16:13Z",
+          "sizeKb": 43280,
           "direction": "跨境电商与爬虫运营"
         },
         {
@@ -1148,10 +1129,10 @@
           "url": "https://github.com/n8n-io/n8n",
           "source": "n8n-io/n8n",
           "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-          "publishedAt": "2026-10-21T20:15:59Z",
+          "publishedAt": "2026-10-22T05:21:52Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 208241,
+          "stars": 208270,
           "starsToday": null,
           "topics": [
             "ai",
@@ -1167,12 +1148,12 @@
             "low-code-platform",
             "mcp"
           ],
-          "forks": 61220,
-          "openIssues": 1224,
+          "forks": 61216,
+          "openIssues": 1228,
           "archived": false,
           "createdAt": "2019-06-22T09:24:21Z",
-          "pushedAt": "2026-10-21T20:15:59Z",
-          "sizeKb": 733112,
+          "pushedAt": "2026-10-22T05:21:52Z",
+          "sizeKb": 735141,
           "direction": "自动化与效率工具"
         },
         {
@@ -1180,10 +1161,10 @@
           "url": "https://github.com/HKUDS/nanobot",
           "source": "HKUDS/nanobot",
           "summary": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-          "publishedAt": "2026-10-21T17:55:44Z",
+          "publishedAt": "2026-10-22T05:29:19Z",
           "type": "trending",
           "language": "Python",
-          "stars": 49250,
+          "stars": 49262,
           "starsToday": null,
           "topics": [
             "agent-framework",
@@ -1199,12 +1180,12 @@
             "model-context-protocol",
             "multi-agent"
           ],
-          "forks": 8660,
-          "openIssues": 877,
+          "forks": 8661,
+          "openIssues": 879,
           "archived": false,
           "createdAt": "2026-02-01T07:16:15Z",
-          "pushedAt": "2026-10-21T17:55:44Z",
-          "sizeKb": 80384,
+          "pushedAt": "2026-10-22T05:29:19Z",
+          "sizeKb": 81298,
           "direction": "自动化与效率工具"
         },
         {
@@ -1212,10 +1193,10 @@
           "url": "https://github.com/apache/airflow",
           "source": "apache/airflow",
           "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-          "publishedAt": "2026-10-21T20:23:07Z",
+          "publishedAt": "2026-10-22T04:54:39Z",
           "type": "trending",
           "language": "Python",
-          "stars": 47244,
+          "stars": 47254,
           "starsToday": null,
           "topics": [
             "airflow",
@@ -1231,12 +1212,12 @@
             "elt",
             "etl"
           ],
-          "forks": 18112,
-          "openIssues": 1915,
+          "forks": 18117,
+          "openIssues": 1902,
           "archived": false,
           "createdAt": "2015-04-13T18:04:58Z",
-          "pushedAt": "2026-10-21T20:23:07Z",
-          "sizeKb": 775832,
+          "pushedAt": "2026-10-22T04:54:39Z",
+          "sizeKb": 776777,
           "direction": "自动化与效率工具"
         },
         {
@@ -1244,10 +1225,10 @@
           "url": "https://github.com/kestra-io/kestra",
           "source": "kestra-io/kestra",
           "summary": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
-          "publishedAt": "2026-10-21T20:09:11Z",
+          "publishedAt": "2026-10-22T04:41:05Z",
           "type": "trending",
           "language": "Java",
-          "stars": 29932,
+          "stars": 29942,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -1263,12 +1244,12 @@
             "infra-automation",
             "infra-ops"
           ],
-          "forks": 3447,
-          "openIssues": 911,
+          "forks": 3452,
+          "openIssues": 917,
           "archived": false,
           "createdAt": "2019-08-24T13:56:15Z",
-          "pushedAt": "2026-10-21T20:09:11Z",
-          "sizeKb": 147338,
+          "pushedAt": "2026-10-22T04:41:05Z",
+          "sizeKb": 147406,
           "direction": "自动化与效率工具"
         },
         {
@@ -1279,7 +1260,7 @@
           "publishedAt": "2026-10-17T08:16:09Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 256907,
+          "stars": 257293,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -1287,7 +1268,7 @@
             "dsh",
             "dsh-plugin"
           ],
-          "forks": 30974,
+          "forks": 31035,
           "openIssues": 0,
           "archived": false,
           "createdAt": "2026-08-13T11:56:32Z",
@@ -1300,10 +1281,10 @@
           "url": "https://github.com/storytold/photocraft",
           "source": "storytold/photocraft",
           "summary": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-          "publishedAt": "2026-10-21T20:00:48Z",
+          "publishedAt": "2026-10-22T04:26:00Z",
           "type": "trending",
           "language": "Rust",
-          "stars": 70526,
+          "stars": 70764,
           "starsToday": null,
           "topics": [
             "art",
@@ -1314,12 +1295,12 @@
             "photo-editing",
             "rust"
           ],
-          "forks": 12427,
-          "openIssues": 3014,
+          "forks": 12482,
+          "openIssues": 2921,
           "archived": false,
           "createdAt": "2026-09-30T13:37:48Z",
-          "pushedAt": "2026-10-21T20:00:48Z",
-          "sizeKb": 55048,
+          "pushedAt": "2026-10-22T04:26:00Z",
+          "sizeKb": 59979,
           "direction": null
         },
         {
@@ -1330,10 +1311,10 @@
           "publishedAt": "2026-10-21T07:20:02Z",
           "type": "trending",
           "language": "HTML",
-          "stars": 67584,
+          "stars": 67710,
           "starsToday": null,
           "topics": [],
-          "forks": 5824,
+          "forks": 5842,
           "openIssues": 20,
           "archived": false,
           "createdAt": "2026-09-07T01:53:36Z",
@@ -1346,10 +1327,10 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "source": "boykopovar/AnyPS5",
           "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
-          "publishedAt": "2026-10-21T19:54:31Z",
+          "publishedAt": "2026-10-22T05:30:27Z",
           "type": "trending",
           "language": "C++",
-          "stars": 46271,
+          "stars": 46466,
           "starsToday": null,
           "topics": [
             "anyps5",
@@ -1360,12 +1341,12 @@
             "spir-v",
             "vulkan"
           ],
-          "forks": 4273,
-          "openIssues": 1234,
+          "forks": 4291,
+          "openIssues": 1407,
           "archived": false,
           "createdAt": "2026-08-03T21:30:25Z",
-          "pushedAt": "2026-10-21T19:54:31Z",
-          "sizeKb": 68205,
+          "pushedAt": "2026-10-22T05:30:27Z",
+          "sizeKb": 68276,
           "direction": null
         },
         {
@@ -1373,50 +1354,48 @@
           "url": "https://github.com/JustVugg/colibri",
           "source": "JustVugg/colibri",
           "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-          "publishedAt": "2026-10-21T20:21:49Z",
+          "publishedAt": "2026-10-21T23:15:54Z",
           "type": "trending",
           "language": "C",
-          "stars": 43214,
+          "stars": 43248,
           "starsToday": null,
           "topics": [],
-          "forks": 4853,
-          "openIssues": 148,
+          "forks": 4859,
+          "openIssues": 149,
           "archived": false,
           "createdAt": "2026-07-01T12:27:49Z",
-          "pushedAt": "2026-10-21T20:21:49Z",
-          "sizeKb": 32179,
+          "pushedAt": "2026-10-21T23:15:54Z",
+          "sizeKb": 32984,
           "direction": null
         },
         {
-          "title": "NandhaKishorM/laya",
-          "url": "https://github.com/NandhaKishorM/laya",
-          "source": "NandhaKishorM/laya",
-          "summary": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
-          "publishedAt": "2026-10-21T13:36:13Z",
+          "title": "Ebony-Vinyl/dsh-our-free-model",
+          "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+          "source": "Ebony-Vinyl/dsh-our-free-model",
+          "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+          "publishedAt": "2026-10-22T03:41:11Z",
           "type": "trending",
-          "language": "Python",
-          "stars": 33839,
+          "language": "JavaScript",
+          "stars": 34698,
           "starsToday": null,
           "topics": [
-            "calibration",
-            "classification",
-            "decision-model",
-            "huggingface",
-            "jev",
-            "modernbert",
-            "multilingual",
-            "nlp",
-            "python",
-            "pytorch",
-            "routing",
-            "typed-decisions"
+            "ai-agents",
+            "deepseek",
+            "deepseek-harness",
+            "developer-tools",
+            "dsh",
+            "dsh-plugin",
+            "free-model",
+            "llm",
+            "model-provider",
+            "openai-compatible"
           ],
-          "forks": 3042,
-          "openIssues": 82,
+          "forks": 960,
+          "openIssues": 303,
           "archived": false,
-          "createdAt": "2026-09-18T04:46:33Z",
-          "pushedAt": "2026-10-21T13:36:13Z",
-          "sizeKb": 17488,
+          "createdAt": "2026-09-24T16:17:19Z",
+          "pushedAt": "2026-10-22T03:41:11Z",
+          "sizeKb": 18894,
           "direction": null
         }
       ]
@@ -1426,13 +1405,13 @@
       "name": "版本发布与更新",
       "items": [
         {
-          "title": "langchain-ai/langchain 发布 langchain-core==1.6.12",
-          "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12",
+          "title": "langchain-ai/langchain 发布 langchain-core==1.6.13",
+          "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.13",
           "source": "langchain-ai/langchain",
-          "summary": "Changes since langchain core==1.6.11 release core : 1.6.12 41277 fix core : propagate extras on content block start events 41272",
-          "publishedAt": "2026-10-16T19:28:44Z",
+          "summary": "Changes since langchain core==1.6.12 release core : 1.6.13 41397 chore deps : bump certifi from 2025.11.12 to 2026.10.19 in /libs/core 41373 feat core,langchain,standard tests : read tool call delta i",
+          "publishedAt": "2026-10-21T20:43:48Z",
           "type": "release",
-          "tag": "langchain-core==1.6.12",
+          "tag": "langchain-core==1.6.13",
           "stars": null
         },
         {
@@ -1492,6 +1471,46 @@
       "name": "行业动态",
       "items": [
         {
+          "title": "I built an open source Steam Link app for Samsung TVs",
+          "url": "https://github.com/pebeto/tizen-steam-link",
+          "source": "github.com",
+          "summary": "",
+          "publishedAt": "2026-10-22T02:29:22Z",
+          "type": "news",
+          "stars": null,
+          "points": 3
+        },
+        {
+          "title": "OpenVAF – Open-source Verilog-A compiler in Rust",
+          "url": "https://github.com/pascalkuthe/OpenVAF",
+          "source": "github.com",
+          "summary": "",
+          "publishedAt": "2026-10-22T02:17:52Z",
+          "type": "news",
+          "stars": null,
+          "points": 2
+        },
+        {
+          "title": "The Kessler Syndrome (where blowups multiply exponentially) applied to software",
+          "url": "https://news.ycombinator.com/item?id=50189771",
+          "source": "news.ycombinator.com",
+          "summary": "Earlier this year, inspired by a spate of supply chain attacks (like Mini Shai-Hulud-style worms, which culminated in headlines like Microsoft&#x27;s Azure tools themselves being compromised), I wrote on my blog about the Kessler Syndrome, applied to software. Ie: the rising likelihood that, because of how bad actors with agentic AI can do far more damage, more quickly with the secrets they exfiltrate from penetrated networks, we could get into a situation where essentially every network of medium or greater complexity would become permanently &quot;tainted&quot; (never fully clean). Basically, can a swarm of agents 1) penetrate networks and exfiltrate secrets, 2) successfully install deeply embedded malware&#x2F;rootkits, 3) move on to the next network, faster than hugops teams can rotate secrets and restore servers cleanly? For basically the entire existence of networked computers, this would have seemed a fantastical notion. But, throw in the current AI-fueled exploit discoveries and the countless servers vulnerable to RCEs across several stacks: I feel like the probability just keeps rising. Here are excerpts from my blog post, June 10: &quot;&#x27;The Kessler Syndrome is a scenario where the density of objects and space debris in low Earth orbit becomes so high that collisions between them trigger a runaway chain reaction. Each crash generates thousands of new fragments, exponentially increasing the risk of further impacts and potentially rendering Earth’s orbit unusable.&#x27; &quot;Just counting some of the high profile examples of public repos being laced with malware lately: Microsoft just disabled 70+ of their own repos, including Azure building tools. Repos from RedHat, tanstack, axios, Mistral, UiPath, and many other lower profile targets have been hacked. The list is long, and is much longer if you count companies (not just public repos for devs) that have been bitten, including names like GitHub, Cisco, OpenAI, and more. &quot;...AIs or fancy new systems, probably made with AI appear to have dramatically lowered the amount of time to first utilization of stolen credentials. &quot;It takes too long to clean an infected system&#x2F;network (and the malware is getting much smarter&#x2F;vindictive about detecting its removal, further complicating things), and it takes almost no time for a batch of stolen credentials to be exploited -&gt; new networks traversed, leading to more secrets (that likely compromise more projects, rinse and repeat). &quot;I think there is the very real possibility that we reach a Kessler Syndrome situation for shared&#x2F;open source software, where the success of continued credential stealing campaigns permanently compromises medium, large, and even small networks, and lowers trust in shared software to a crippling degree.&quot; In just October: &gt; Railway - customer secrets exposure &gt; LiteLLM - malicious PyPI + Docker releases &gt; Zeabur - infrastructure breached &gt; OpenCode - AI API keys exposed &gt; OVHcloud CLI - official binaries backdoored &gt; Rank Math PRO - malware in official plugin &gt; TeamUpdraft - customer data compromised &gt; ConnectWise - cloud backup identities compromised &gt; Tensorlake - npm package infected &gt; PingCap - alleged major breach &gt; SubQuery - backdoored npm package &gt; GhostAction - GitHub repos with malicious workflows &gt; PHP - critical RCE flaws &gt; Node.js - security flaws patched &gt; eMudhra - certificate authority keys compromised &gt; Tailscale - eMudhra incident",
+          "publishedAt": "2026-10-22T00:58:58Z",
+          "type": "news",
+          "stars": null,
+          "points": 5
+        },
+        {
+          "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
+          "url": "https://github.com/agency-project/agency",
+          "source": "github.com",
+          "summary": "",
+          "publishedAt": "2026-10-21T21:56:31Z",
+          "type": "news",
+          "stars": null,
+          "points": 4
+        },
+        {
           "title": "An open source experiment: OSS as a set of agent prompts, not code",
           "url": "https://github.com/briandilley/shifted",
           "source": "github.com",
@@ -1499,7 +1518,7 @@
           "publishedAt": "2026-10-21T18:53:32Z",
           "type": "news",
           "stars": null,
-          "points": 2
+          "points": 3
         },
         {
           "title": "A complete open-source FPGA replica of the Soviet-era Vector-06C home computer",
@@ -1509,7 +1528,7 @@
           "publishedAt": "2026-10-21T18:43:00Z",
           "type": "news",
           "stars": null,
-          "points": 3
+          "points": 4
         },
         {
           "title": "Trajecktory, an open-source, local-first job search dashboard",
@@ -1530,46 +1549,6 @@
           "type": "news",
           "stars": null,
           "points": 1
-        },
-        {
-          "title": "Hertzon: Open-Source 3D Full-Wave FEM Solver",
-          "url": "https://github.com/c8501024/Hertzon",
-          "source": "github.com",
-          "summary": "",
-          "publishedAt": "2026-10-21T17:32:40Z",
-          "type": "news",
-          "stars": null,
-          "points": 4
-        },
-        {
-          "title": "Show HN: Shellwing – an open-source SSH client built on libghostty and GPUI",
-          "url": "https://github.com/hivepaas/shellwing",
-          "source": "github.com",
-          "summary": "",
-          "publishedAt": "2026-10-21T17:16:29Z",
-          "type": "news",
-          "stars": null,
-          "points": 1
-        },
-        {
-          "title": "Show HN: Open-source site base plans from any US address",
-          "url": "https://basesheet.site/",
-          "source": "basesheet.site",
-          "summary": "I built this tool for a landscape architect friend. Enter a US address and you get a site base plan: parcel line, LiDAR contours, flood zones, wetlands, soils and an aerial, as DXF, SketchUp, GIS and PDF files. Code is MIT licensed: https:&#x2F;&#x2F;github.com&#x2F;hthillman&#x2F;site-base-plan",
-          "publishedAt": "2026-10-21T16:31:48Z",
-          "type": "news",
-          "stars": null,
-          "points": 2
-        },
-        {
-          "title": "OXR – An RSI-trained 1.3B open-source SOTA document parsing model",
-          "url": "https://github.com/SoMarkAI/OXR",
-          "source": "github.com",
-          "summary": "",
-          "publishedAt": "2026-10-21T16:20:24Z",
-          "type": "news",
-          "stars": null,
-          "points": 2
         }
       ]
     },
@@ -1578,58 +1557,58 @@
       "name": "精选论文与技术文章",
       "items": [
         {
-          "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-          "url": "http://arxiv.org/abs/2610.28629v1",
+          "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+          "url": "http://arxiv.org/abs/2610.30132v1",
           "source": "arXiv",
-          "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challenging. Here, we present GBClaw, an agentic AI framework for investigating the struct",
-          "publishedAt": "2026-10-20T17:59:40Z",
+          "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL,",
+          "publishedAt": "2026-10-21T17:59:14Z",
           "type": "paper",
-          "authors": "Yazhuo Liu"
+          "authors": "Zhennan Wan"
         },
         {
-          "title": "Semantic Observability for Autonomous Systems Diagnostics",
-          "url": "http://arxiv.org/abs/2610.28611v1",
+          "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+          "url": "http://arxiv.org/abs/2610.30113v1",
           "source": "arXiv",
-          "summary": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading failures remains an arduous task for Site Reliability Engineers (SREs), bottleneck",
-          "publishedAt": "2026-10-20T17:53:32Z",
+          "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual trading decisions, leaving open whether large language models (",
+          "publishedAt": "2026-10-21T17:54:01Z",
           "type": "paper",
-          "authors": "Jitendra Solanki"
+          "authors": "Houde Qian"
         },
         {
-          "title": "InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning",
-          "url": "http://arxiv.org/abs/2610.28610v1",
+          "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+          "url": "http://arxiv.org/abs/2610.30099v1",
           "source": "arXiv",
-          "summary": "Interactive webpages underpin modern applications, but reproducing both their visual appearance and multi-step behavior remains challenging for multimodal large language models (MLLMs). Scalable training data must capture user actions, state transitions, and expected outcomes, while real-world webpa",
-          "publishedAt": "2026-10-20T17:53:24Z",
+          "summary": "Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with human values. However, the reliance on sensitive preference data necessitates rigorous differential privacy (DP) guarantees to prevent user information leakage. Existing private al",
+          "publishedAt": "2026-10-21T17:45:42Z",
           "type": "paper",
-          "authors": "Jingyu Xiao"
+          "authors": "Meng Ding"
         },
         {
-          "title": "Benchmarking Arabic Dialects for Math Problems",
-          "url": "http://arxiv.org/abs/2610.28607v1",
+          "title": "TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments",
+          "url": "http://arxiv.org/abs/2610.30043v1",
           "source": "arXiv",
-          "summary": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated benchmark for evaluating mathematical reasoning in Dialectal Arab",
-          "publishedAt": "2026-10-20T17:50:13Z",
+          "summary": "Robots must act under physical and social constraints while adapting to changes in their environment and human needs. Existing embodied-agent systems often focus on specified goals or abstract execution into symbolic actions, limiting evaluation in an evolving world. We introduce TARSphere, a robot-",
+          "publishedAt": "2026-10-21T17:02:52Z",
           "type": "paper",
-          "authors": "Noor Abo Mokh"
+          "authors": "Yicheng Xu"
         },
         {
-          "title": "Cache Engineering for Agents",
-          "url": "http://arxiv.org/abs/2610.28577v1",
+          "title": "Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories",
+          "url": "http://arxiv.org/abs/2610.30016v1",
           "source": "arXiv",
-          "summary": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage become the dominant cost. Trajectories can also exceed the LLM's maximum context length, requiring contr",
-          "publishedAt": "2026-10-20T17:32:24Z",
+          "summary": "Understanding large, complex, and rapidly evolving code bases remains a core challenge for software engineering at scale, hindering onboarding, maintenance, refactoring, and impact analysis. Providing this information to a Large-Language Model (LLM) is another hurdle, as the LLM must understand not ",
+          "publishedAt": "2026-10-21T16:45:43Z",
           "type": "paper",
-          "authors": "Tianyu Fu"
+          "authors": "Sujoy Roychowdhury"
         },
         {
-          "title": "The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token",
-          "url": "http://arxiv.org/abs/2610.28576v1",
+          "title": "EPIC: Rethinking Trust Regions for Autoregressive LLM Policies via Exact-KL Prefix Importance-Ratio Clipping",
+          "url": "http://arxiv.org/abs/2610.29999v1",
           "source": "arXiv",
-          "summary": "Energy-efficient deployment of large language models requires understanding how model architecture, hardware, and serving settings shape energy per generated token. We introduce the Token-Energy Law, a compact, interpretable model of GPU-board energy per output token for dense, full-history decoding",
-          "publishedAt": "2026-10-20T17:32:08Z",
+          "summary": "Reinforcement learning (RL) based on PPO-style clipping has become an effective approach to improving the reasoning capabilities of large language models (LLMs). However, standard token-level clipping measures policy change only through the conditional probability of the current token, while the pre",
+          "publishedAt": "2026-10-21T16:37:09Z",
           "type": "paper",
-          "authors": "Chenxu Niu"
+          "authors": "Chengxi Li"
         }
       ]
     },
@@ -1642,10 +1621,10 @@
           "url": "https://github.com/vinta/awesome-python",
           "source": "vinta/awesome-python",
           "summary": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-          "publishedAt": "2026-10-21T16:29:02Z",
+          "publishedAt": "2026-10-22T04:37:04Z",
           "type": "tips",
           "language": "Python",
-          "stars": 329237,
+          "stars": 329318,
           "starsToday": null,
           "topics": [
             "awesome",
@@ -1659,7 +1638,7 @@
           "openIssues": 17,
           "archived": false,
           "createdAt": "2014-06-27T21:00:06Z",
-          "pushedAt": "2026-10-21T16:29:02Z",
+          "pushedAt": "2026-10-22T04:37:04Z",
           "sizeKb": 6964,
           "direction": null,
           "tag": "清单/教程"
@@ -1672,7 +1651,7 @@
           "publishedAt": "2026-09-28T00:11:38Z",
           "type": "tips",
           "language": "Python",
-          "stars": 183518,
+          "stars": 183595,
           "starsToday": null,
           "topics": [
             "awesome",
@@ -1680,8 +1659,8 @@
             "hellogithub",
             "python"
           ],
-          "forks": 13054,
-          "openIssues": 1081,
+          "forks": 13057,
+          "openIssues": 1082,
           "archived": false,
           "createdAt": "2016-05-04T06:24:11Z",
           "pushedAt": "2026-09-28T00:11:38Z",
@@ -1694,10 +1673,10 @@
           "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
           "source": "serhii-londar/open-source-mac-os-apps",
           "summary": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
-          "publishedAt": "2026-10-20T09:49:45Z",
+          "publishedAt": "2026-10-21T21:06:09Z",
           "type": "tips",
           "language": null,
-          "stars": 50935,
+          "stars": 50941,
           "starsToday": null,
           "topics": [
             "applications",
@@ -1713,12 +1692,12 @@
             "macos-application",
             "macosx"
           ],
-          "forks": 3063,
-          "openIssues": 290,
+          "forks": 3065,
+          "openIssues": 268,
           "archived": false,
           "createdAt": "2017-11-03T02:35:33Z",
-          "pushedAt": "2026-10-20T09:49:45Z",
-          "sizeKb": 7491,
+          "pushedAt": "2026-10-21T21:06:09Z",
+          "sizeKb": 6745,
           "direction": null,
           "tag": "清单/教程"
         },
@@ -1730,7 +1709,7 @@
           "publishedAt": "2026-09-26T00:44:47Z",
           "type": "tips",
           "language": null,
-          "stars": 37353,
+          "stars": 37352,
           "starsToday": null,
           "topics": [
             "artificial-intelligence",
@@ -1763,7 +1742,7 @@
           "publishedAt": "2026-08-21T18:52:45Z",
           "type": "tips",
           "language": null,
-          "stars": 30560,
+          "stars": 30565,
           "starsToday": null,
           "topics": [
             "agent",
@@ -1779,7 +1758,7 @@
             "gpt-engineer",
             "openai"
           ],
-          "forks": 3668,
+          "forks": 3669,
           "openIssues": 1179,
           "archived": false,
           "createdAt": "2023-06-19T00:20:06Z",
@@ -1826,10 +1805,10 @@
           "url": "https://github.com/ultralytics/ultralytics",
           "source": "ultralytics/ultralytics",
           "summary": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-          "publishedAt": "2026-10-21T17:38:40Z",
+          "publishedAt": "2026-10-22T04:09:42Z",
           "type": "trending",
           "language": "Python",
-          "stars": 62718,
+          "stars": 62727,
           "starsToday": null,
           "topics": [
             "computer-vision",
@@ -1845,12 +1824,12 @@
             "rotated-object-detection",
             "segment-anything"
           ],
-          "forks": 11884,
-          "openIssues": 89,
+          "forks": 11886,
+          "openIssues": 91,
           "archived": false,
           "createdAt": "2022-09-11T16:39:45Z",
-          "pushedAt": "2026-10-21T17:38:40Z",
-          "sizeKb": 63996,
+          "pushedAt": "2026-10-22T04:09:42Z",
+          "sizeKb": 63826,
           "direction": "机器学习与计算机视觉",
           "tag": "清单/教程"
         },
@@ -1921,6 +1900,33 @@
           "tag": "清单/教程"
         },
         {
+          "title": "hank-ai/darknet",
+          "url": "https://github.com/hank-ai/darknet",
+          "source": "hank-ai/darknet",
+          "summary": "Darknet/YOLO object detection framework",
+          "publishedAt": "2026-08-30T11:41:35Z",
+          "type": "trending",
+          "language": "C++",
+          "stars": 858,
+          "starsToday": null,
+          "topics": [
+            "computervision",
+            "darknet",
+            "machine-learning",
+            "neural-networks",
+            "object-detection",
+            "yolo"
+          ],
+          "forks": 113,
+          "openIssues": 35,
+          "archived": false,
+          "createdAt": "2023-05-18T18:19:19Z",
+          "pushedAt": "2026-08-30T11:41:35Z",
+          "sizeKb": 21345,
+          "direction": "机器学习与计算机视觉",
+          "tag": "清单/教程"
+        },
+        {
           "title": "eugenp/tutorials",
           "url": "https://github.com/eugenp/tutorials",
           "source": "eugenp/tutorials",
@@ -1928,10 +1934,10 @@
           "publishedAt": "2026-10-20T11:01:49Z",
           "type": "trending",
           "language": "Java",
-          "stars": 37312,
+          "stars": 37310,
           "starsToday": null,
           "topics": [],
-          "forks": 53136,
+          "forks": 53133,
           "openIssues": 19,
           "archived": false,
           "createdAt": "2013-04-29T18:26:36Z",
@@ -1948,7 +1954,7 @@
           "publishedAt": "2026-09-18T07:16:11Z",
           "type": "trending",
           "language": "Python",
-          "stars": 77611,
+          "stars": 77636,
           "starsToday": null,
           "topics": [
             "agent-skills",
@@ -1964,8 +1970,8 @@
             "gemini-cli",
             "mcp"
           ],
-          "forks": 9252,
-          "openIssues": 1834,
+          "forks": 9266,
+          "openIssues": 1842,
           "archived": false,
           "createdAt": "2025-10-17T07:15:01Z",
           "pushedAt": "2026-09-18T07:16:11Z",
