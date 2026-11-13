@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-12T17:11:54.781Z",
-  "lastSuccessAt": "2026-11-12T17:11:54.781Z",
+  "generatedAt": "2026-11-13T07:27:11.673Z",
+  "lastSuccessAt": "2026-11-13T07:27:11.673Z",
   "isFallback": false,
   "source": {
     "repo": "Tonightthestarry/-github-push-dashboard",
     "workflow": "GitHub Daily Push",
     "schedule": "0 1,9,17 * * *",
-    "runId": "43266824971",
-    "runUrl": "https://github.com/Tonightthestarry/-github-push-dashboard/actions/runs/43266824971",
+    "runId": "43385839041",
+    "runUrl": "https://github.com/Tonightthestarry/-github-push-dashboard/actions/runs/43385839041",
     "scope": "画像方向 软件测试与质量保障、AI Agent / RAG、大数据 Spark/Hadoop、数据分析与可视化、机器学习与计算机视觉、Java 全栈与后端工程、跨境电商与爬虫运营、自动化与效率工具 + 关注仓库 Releases + arXiv 论文 + 技术资讯",
     "profileDriven": true,
     "directions": [
@@ -55,10 +55,10 @@
           "url": "https://github.com/microsoft/playwright",
           "source": "microsoft/playwright",
           "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-          "publishedAt": "2026-11-12T04:37:31Z",
+          "publishedAt": "2026-11-13T05:05:44Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 99985,
+          "stars": 100055,
           "starsToday": null,
           "topics": [
             "automation",
@@ -74,12 +74,12 @@
             "test-automation",
             "testing"
           ],
-          "forks": 6857,
-          "openIssues": 33,
+          "forks": 6863,
+          "openIssues": 25,
           "archived": false,
           "createdAt": "2019-11-15T18:32:42Z",
-          "pushedAt": "2026-11-12T04:37:31Z",
-          "sizeKb": 246944,
+          "pushedAt": "2026-11-13T05:05:44Z",
+          "sizeKb": 247518,
           "direction": "软件测试与质量保障"
         },
         {
@@ -87,10 +87,10 @@
           "url": "https://github.com/puppeteer/puppeteer",
           "source": "puppeteer/puppeteer",
           "summary": "JavaScript API for Chrome and Firefox",
-          "publishedAt": "2026-11-12T16:44:27Z",
+          "publishedAt": "2026-11-13T07:17:14Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 95827,
+          "stars": 95828,
           "starsToday": null,
           "topics": [
             "automation",
@@ -103,12 +103,12 @@
             "testing",
             "web"
           ],
-          "forks": 9604,
-          "openIssues": 197,
+          "forks": 9605,
+          "openIssues": 200,
           "archived": false,
           "createdAt": "2017-05-09T22:16:13Z",
-          "pushedAt": "2026-11-12T16:44:27Z",
-          "sizeKb": 1616988,
+          "pushedAt": "2026-11-13T07:17:14Z",
+          "sizeKb": 1617021,
           "direction": "软件测试与质量保障"
         },
         {
@@ -119,7 +119,7 @@
           "publishedAt": "2026-11-12T15:17:11Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 48371,
+          "stars": 48384,
           "starsToday": null,
           "topics": [
             "api-client",
@@ -135,8 +135,8 @@
             "opensource",
             "rest-api"
           ],
-          "forks": 3104,
-          "openIssues": 1983,
+          "forks": 3103,
+          "openIssues": 1986,
           "archived": false,
           "createdAt": "2022-09-27T20:51:45Z",
           "pushedAt": "2026-11-12T15:17:11Z",
@@ -148,10 +148,10 @@
           "url": "https://github.com/babalae/better-genshin-impact",
           "source": "babalae/better-genshin-impact",
           "summary": "📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 | 桌面分身 - UI Automation Testing Tools For Genshin Impact",
-          "publishedAt": "2026-11-12T14:18:17Z",
+          "publishedAt": "2026-11-12T17:14:53Z",
           "type": "trending",
           "language": "C#",
-          "stars": 17973,
+          "stars": 17987,
           "starsToday": null,
           "topics": [
             "auto-play-game",
@@ -161,12 +161,12 @@
             "genshin-impact",
             "yuanshen"
           ],
-          "forks": 1335,
-          "openIssues": 557,
+          "forks": 1336,
+          "openIssues": 559,
           "archived": false,
           "createdAt": "2023-08-27T01:02:45Z",
-          "pushedAt": "2026-11-12T14:18:17Z",
-          "sizeKb": 383816,
+          "pushedAt": "2026-11-12T17:14:53Z",
+          "sizeKb": 383818,
           "direction": "软件测试与质量保障"
         },
         {
@@ -177,7 +177,7 @@
           "publishedAt": "2026-10-01T21:37:15Z",
           "type": "trending",
           "language": "Python",
-          "stars": 17316,
+          "stars": 17360,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -186,7 +186,7 @@
             "test-automation",
             "testing"
           ],
-          "forks": 1928,
+          "forks": 1932,
           "openIssues": 190,
           "archived": false,
           "createdAt": "2026-08-13T17:59:37Z",
@@ -199,10 +199,10 @@
           "url": "https://github.com/dagger/dagger",
           "source": "dagger/dagger",
           "summary": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
-          "publishedAt": "2026-11-12T14:08:21Z",
+          "publishedAt": "2026-11-13T07:24:54Z",
           "type": "trending",
           "language": "Go",
-          "stars": 16611,
+          "stars": 16610,
           "starsToday": null,
           "topics": [
             "agents",
@@ -216,12 +216,12 @@
             "graphql",
             "workflows"
           ],
-          "forks": 954,
-          "openIssues": 262,
+          "forks": 956,
+          "openIssues": 270,
           "archived": false,
           "createdAt": "2019-11-20T01:31:51Z",
-          "pushedAt": "2026-11-12T14:08:21Z",
-          "sizeKb": 283247,
+          "pushedAt": "2026-11-13T07:24:54Z",
+          "sizeKb": 283280,
           "direction": "软件测试与质量保障"
         },
         {
@@ -232,7 +232,7 @@
           "publishedAt": "2026-11-09T04:56:24Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 301846,
+          "stars": 302129,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -244,7 +244,7 @@
             "mcp",
             "productivity"
           ],
-          "forks": 44527,
+          "forks": 44563,
           "openIssues": 275,
           "archived": false,
           "createdAt": "2026-01-18T00:51:51Z",
@@ -257,10 +257,10 @@
           "url": "https://github.com/NousResearch/hermes-agent",
           "source": "NousResearch/hermes-agent",
           "summary": "The agent that grows with you",
-          "publishedAt": "2026-11-12T17:11:17Z",
+          "publishedAt": "2026-11-13T07:22:14Z",
           "type": "trending",
           "language": "Python",
-          "stars": 262916,
+          "stars": 263044,
           "starsToday": null,
           "topics": [
             "ai",
@@ -276,12 +276,12 @@
             "llm",
             "nous-research"
           ],
-          "forks": 59156,
-          "openIssues": 53936,
+          "forks": 59218,
+          "openIssues": 53598,
           "archived": false,
           "createdAt": "2025-07-22T22:22:28Z",
-          "pushedAt": "2026-11-12T17:11:17Z",
-          "sizeKb": 1441897,
+          "pushedAt": "2026-11-13T07:22:14Z",
+          "sizeKb": 1449426,
           "direction": "AI Agent / RAG"
         },
         {
@@ -289,10 +289,10 @@
           "url": "https://github.com/firecrawl/firecrawl",
           "source": "firecrawl/firecrawl",
           "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
-          "publishedAt": "2026-11-12T17:09:13Z",
+          "publishedAt": "2026-11-13T06:18:04Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 201198,
+          "stars": 201357,
           "starsToday": null,
           "topics": [
             "ai",
@@ -308,12 +308,12 @@
             "scraper",
             "scraping"
           ],
-          "forks": 10564,
-          "openIssues": 792,
+          "forks": 10565,
+          "openIssues": 798,
           "archived": false,
           "createdAt": "2024-04-15T21:02:29Z",
-          "pushedAt": "2026-11-12T17:09:13Z",
-          "sizeKb": 191490,
+          "pushedAt": "2026-11-13T06:18:04Z",
+          "sizeKb": 191058,
           "direction": "AI Agent / RAG"
         },
         {
@@ -324,7 +324,7 @@
           "publishedAt": "2026-10-29T11:59:31Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 189638,
+          "stars": 189931,
           "starsToday": null,
           "topics": [
             "agent-skills",
@@ -338,8 +338,8 @@
             "prompt-engineering",
             "yagni"
           ],
-          "forks": 10566,
-          "openIssues": 221,
+          "forks": 10598,
+          "openIssues": 224,
           "archived": false,
           "createdAt": "2026-06-12T00:52:37Z",
           "pushedAt": "2026-10-29T11:59:31Z",
@@ -351,10 +351,10 @@
           "url": "https://github.com/langgenius/dify",
           "source": "langgenius/dify",
           "summary": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
-          "publishedAt": "2026-11-12T16:54:51Z",
+          "publishedAt": "2026-11-13T07:26:46Z",
           "type": "trending",
           "language": "Python",
-          "stars": 161049,
+          "stars": 161077,
           "starsToday": null,
           "topics": [
             "agent",
@@ -370,12 +370,12 @@
             "llm",
             "low-code"
           ],
-          "forks": 25465,
-          "openIssues": 1247,
+          "forks": 25473,
+          "openIssues": 1255,
           "archived": false,
           "createdAt": "2023-04-12T07:40:24Z",
-          "pushedAt": "2026-11-12T16:54:51Z",
-          "sizeKb": 711916,
+          "pushedAt": "2026-11-13T07:26:46Z",
+          "sizeKb": 713168,
           "direction": "AI Agent / RAG"
         },
         {
@@ -383,10 +383,10 @@
           "url": "https://github.com/langchain-ai/langchain",
           "source": "langchain-ai/langchain",
           "summary": "The agent engineering platform.",
-          "publishedAt": "2026-11-12T14:08:06Z",
+          "publishedAt": "2026-11-12T19:39:11Z",
           "type": "trending",
           "language": "Python",
-          "stars": 149407,
+          "stars": 149433,
           "starsToday": null,
           "topics": [
             "agents",
@@ -402,12 +402,12 @@
             "langchain",
             "langgraph"
           ],
-          "forks": 25112,
-          "openIssues": 735,
+          "forks": 25115,
+          "openIssues": 738,
           "archived": false,
           "createdAt": "2022-10-17T02:58:36Z",
-          "pushedAt": "2026-11-12T14:08:06Z",
-          "sizeKb": 634962,
+          "pushedAt": "2026-11-12T19:39:11Z",
+          "sizeKb": 634968,
           "direction": "AI Agent / RAG"
         },
         {
@@ -418,7 +418,7 @@
           "publishedAt": "2026-10-15T13:49:30Z",
           "type": "trending",
           "language": "Jupyter Notebook",
-          "stars": 46828,
+          "stars": 46837,
           "starsToday": null,
           "topics": [
             "course",
@@ -430,7 +430,7 @@
             "kestra",
             "spark"
           ],
-          "forks": 9051,
+          "forks": 9050,
           "openIssues": 8,
           "archived": false,
           "createdAt": "2021-10-21T09:32:50Z",
@@ -521,7 +521,7 @@
             "spark",
             "spark-streaming"
           ],
-          "forks": 105,
+          "forks": 106,
           "openIssues": 28,
           "archived": false,
           "createdAt": "2019-07-23T11:42:56Z",
@@ -549,7 +549,7 @@
             "sdp",
             "spark-declarative-pipelines"
           ],
-          "forks": 145,
+          "forks": 146,
           "openIssues": 40,
           "archived": false,
           "createdAt": "2023-02-02T21:24:43Z",
@@ -562,10 +562,10 @@
           "url": "https://github.com/grafana/grafana",
           "source": "grafana/grafana",
           "summary": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
-          "publishedAt": "2026-11-12T17:11:54Z",
+          "publishedAt": "2026-11-13T07:07:17Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 77862,
+          "stars": 77875,
           "starsToday": null,
           "topics": [
             "alerting",
@@ -581,12 +581,12 @@
             "metrics",
             "monitoring"
           ],
-          "forks": 14966,
-          "openIssues": 3325,
+          "forks": 14971,
+          "openIssues": 3323,
           "archived": false,
           "createdAt": "2013-12-11T15:59:56Z",
-          "pushedAt": "2026-11-12T17:11:54Z",
-          "sizeKb": 2135125,
+          "pushedAt": "2026-11-13T07:07:17Z",
+          "sizeKb": 2140985,
           "direction": "数据分析与可视化"
         },
         {
@@ -594,10 +594,10 @@
           "url": "https://github.com/metabase/metabase",
           "source": "metabase/metabase",
           "summary": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
-          "publishedAt": "2026-11-12T17:07:03Z",
+          "publishedAt": "2026-11-13T07:27:06Z",
           "type": "trending",
           "language": "Clojure",
-          "stars": 50301,
+          "stars": 50309,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -614,11 +614,11 @@
             "mysql"
           ],
           "forks": 7005,
-          "openIssues": 4702,
+          "openIssues": 4714,
           "archived": false,
           "createdAt": "2015-02-02T19:25:47Z",
-          "pushedAt": "2026-11-12T17:07:03Z",
-          "sizeKb": 2570850,
+          "pushedAt": "2026-11-13T07:27:06Z",
+          "sizeKb": 2579195,
           "direction": "数据分析与可视化"
         },
         {
@@ -629,7 +629,7 @@
           "publishedAt": "2026-11-10T17:38:46Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 28879,
+          "stars": 28882,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -678,7 +678,7 @@
             "sparkles"
           ],
           "forks": 2895,
-          "openIssues": 753,
+          "openIssues": 752,
           "archived": false,
           "createdAt": "2013-11-21T05:53:08Z",
           "pushedAt": "2026-11-06T21:47:19Z",
@@ -693,7 +693,7 @@
           "publishedAt": "2026-11-12T16:47:01Z",
           "type": "trending",
           "language": "Rust",
-          "stars": 11412,
+          "stars": 11418,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -710,7 +710,7 @@
             "pivot-table"
           ],
           "forks": 1356,
-          "openIssues": 30,
+          "openIssues": 31,
           "archived": false,
           "createdAt": "2017-11-02T16:27:54Z",
           "pushedAt": "2026-11-12T16:47:01Z",
@@ -722,10 +722,10 @@
           "url": "https://github.com/evidence-dev/evidence",
           "source": "evidence-dev/evidence",
           "summary": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
-          "publishedAt": "2026-11-12T16:36:28Z",
+          "publishedAt": "2026-11-12T20:42:57Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 7113,
+          "stars": 7116,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -741,12 +741,12 @@
             "sql",
             "svelte"
           ],
-          "forks": 443,
-          "openIssues": 37,
+          "forks": 444,
+          "openIssues": 38,
           "archived": false,
           "createdAt": "2021-05-27T03:50:19Z",
-          "pushedAt": "2026-11-12T16:36:28Z",
-          "sizeKb": 320279,
+          "pushedAt": "2026-11-12T20:42:57Z",
+          "sizeKb": 320418,
           "direction": "数据分析与可视化"
         },
         {
@@ -779,7 +779,7 @@
           "publishedAt": "2026-11-11T20:21:46Z",
           "type": "trending",
           "language": "Python",
-          "stars": 3691,
+          "stars": 3705,
           "starsToday": null,
           "topics": [
             "coral",
@@ -811,7 +811,7 @@
           "publishedAt": "2026-09-15T02:34:44Z",
           "type": "trending",
           "language": "Java",
-          "stars": 85043,
+          "stars": 85045,
           "starsToday": null,
           "topics": [
             "docker",
@@ -827,7 +827,7 @@
             "spring-boot",
             "spring-cloud"
           ],
-          "forks": 29825,
+          "forks": 29824,
           "openIssues": 18,
           "archived": false,
           "createdAt": "2018-04-04T01:11:44Z",
@@ -840,10 +840,10 @@
           "url": "https://github.com/spring-projects/spring-boot",
           "source": "spring-projects/spring-boot",
           "summary": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-          "publishedAt": "2026-11-12T09:08:56Z",
+          "publishedAt": "2026-11-13T03:09:17Z",
           "type": "trending",
           "language": "Java",
-          "stars": 81904,
+          "stars": 81910,
           "starsToday": null,
           "topics": [
             "framework",
@@ -851,12 +851,12 @@
             "spring",
             "spring-boot"
           ],
-          "forks": 42764,
-          "openIssues": 536,
+          "forks": 42763,
+          "openIssues": 529,
           "archived": false,
           "createdAt": "2012-10-19T15:02:57Z",
-          "pushedAt": "2026-11-12T09:08:56Z",
-          "sizeKb": 226682,
+          "pushedAt": "2026-11-13T03:09:17Z",
+          "sizeKb": 226886,
           "direction": "Java 全栈与后端工程"
         },
         {
@@ -864,10 +864,10 @@
           "url": "https://github.com/YunaiV/ruoyi-vue-pro",
           "source": "YunaiV/ruoyi-vue-pro",
           "summary": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
-          "publishedAt": "2026-11-12T16:50:42Z",
+          "publishedAt": "2026-11-13T04:30:30Z",
           "type": "trending",
           "language": "Java",
-          "stars": 40384,
+          "stars": 40397,
           "starsToday": null,
           "topics": [
             "flowable",
@@ -879,12 +879,12 @@
             "springboot",
             "vue"
           ],
-          "forks": 8669,
+          "forks": 8672,
           "openIssues": 5,
           "archived": false,
           "createdAt": "2021-01-24T03:18:25Z",
-          "pushedAt": "2026-11-12T16:50:42Z",
-          "sizeKb": 206225,
+          "pushedAt": "2026-11-13T04:30:30Z",
+          "sizeKb": 207034,
           "direction": "Java 全栈与后端工程"
         },
         {
@@ -910,7 +910,7 @@
             "vue"
           ],
           "forks": 7315,
-          "openIssues": 35,
+          "openIssues": 36,
           "archived": false,
           "createdAt": "2018-12-14T08:54:24Z",
           "pushedAt": "2026-11-02T08:40:34Z",
@@ -951,10 +951,10 @@
           "url": "https://github.com/dgtlmoon/changedetection.io",
           "source": "dgtlmoon/changedetection.io",
           "summary": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!",
-          "publishedAt": "2026-11-12T09:23:42Z",
+          "publishedAt": "2026-11-13T00:23:40Z",
           "type": "trending",
           "language": "Python",
-          "stars": 35772,
+          "stars": 35787,
           "starsToday": null,
           "topics": [
             "back-in-stock",
@@ -970,12 +970,12 @@
             "web-scraping",
             "website-change-detection"
           ],
-          "forks": 2238,
-          "openIssues": 384,
+          "forks": 2243,
+          "openIssues": 388,
           "archived": false,
           "createdAt": "2021-01-27T16:03:30Z",
-          "pushedAt": "2026-11-12T09:23:42Z",
-          "sizeKb": 75396,
+          "pushedAt": "2026-11-13T00:23:40Z",
+          "sizeKb": 75418,
           "direction": "跨境电商与爬虫运营"
         },
         {
@@ -986,7 +986,7 @@
           "publishedAt": "2026-11-09T19:21:59Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 21437,
+          "stars": 21446,
           "starsToday": null,
           "topics": [
             "coderabbit",
@@ -996,7 +996,7 @@
             "stock-market",
             "tailwindcss"
           ],
-          "forks": 2674,
+          "forks": 2678,
           "openIssues": 8,
           "archived": false,
           "createdAt": "2025-09-28T18:16:32Z",
@@ -1009,10 +1009,10 @@
           "url": "https://github.com/getlago/lago",
           "source": "getlago/lago",
           "summary": "Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
-          "publishedAt": "2026-11-12T10:44:15Z",
+          "publishedAt": "2026-11-13T06:48:08Z",
           "type": "trending",
           "language": "Go",
-          "stars": 10798,
+          "stars": 10811,
           "starsToday": null,
           "topics": [
             "analytics",
@@ -1029,10 +1029,10 @@
             "pricing"
           ],
           "forks": 785,
-          "openIssues": 17,
+          "openIssues": 19,
           "archived": false,
           "createdAt": "2022-02-28T09:22:45Z",
-          "pushedAt": "2026-11-12T10:44:15Z",
+          "pushedAt": "2026-11-13T06:48:08Z",
           "sizeKb": 156931,
           "direction": "跨境电商与爬虫运营"
         },
@@ -1044,7 +1044,7 @@
           "publishedAt": "2026-10-24T00:04:30Z",
           "type": "trending",
           "language": "PHP",
-          "stars": 1507,
+          "stars": 1509,
           "starsToday": null,
           "topics": [
             "open-source",
@@ -1086,8 +1086,8 @@
             "scraper",
             "target"
           ],
-          "forks": 43,
-          "openIssues": 11,
+          "forks": 44,
+          "openIssues": 12,
           "archived": false,
           "createdAt": "2023-07-06T13:53:55Z",
           "pushedAt": "2026-10-26T09:01:15Z",
@@ -1099,7 +1099,7 @@
           "url": "https://github.com/elsbrock/hetzner-radar",
           "source": "elsbrock/hetzner-radar",
           "summary": "🕵️Track prices of the Hetzner dedicated server auction",
-          "publishedAt": "2026-11-12T04:07:04Z",
+          "publishedAt": "2026-11-13T02:30:39Z",
           "type": "trending",
           "language": "TypeScript",
           "stars": 408,
@@ -1119,8 +1119,8 @@
           "openIssues": 11,
           "archived": false,
           "createdAt": "2024-08-12T09:27:15Z",
-          "pushedAt": "2026-11-12T04:07:04Z",
-          "sizeKb": 43265,
+          "pushedAt": "2026-11-13T02:30:39Z",
+          "sizeKb": 43266,
           "direction": "跨境电商与爬虫运营"
         },
         {
@@ -1128,10 +1128,10 @@
           "url": "https://github.com/n8n-io/n8n",
           "source": "n8n-io/n8n",
           "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-          "publishedAt": "2026-11-12T17:08:10Z",
+          "publishedAt": "2026-11-13T07:26:54Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 210307,
+          "stars": 210353,
           "starsToday": null,
           "topics": [
             "ai",
@@ -1147,12 +1147,12 @@
             "low-code-platform",
             "mcp"
           ],
-          "forks": 61491,
-          "openIssues": 1218,
+          "forks": 61493,
+          "openIssues": 1237,
           "archived": false,
           "createdAt": "2019-06-22T09:24:21Z",
-          "pushedAt": "2026-11-12T17:08:10Z",
-          "sizeKb": 813392,
+          "pushedAt": "2026-11-13T07:26:54Z",
+          "sizeKb": 817302,
           "direction": "自动化与效率工具"
         },
         {
@@ -1160,10 +1160,10 @@
           "url": "https://github.com/apache/airflow",
           "source": "apache/airflow",
           "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-          "publishedAt": "2026-11-12T16:41:42Z",
+          "publishedAt": "2026-11-13T07:11:27Z",
           "type": "trending",
           "language": "Python",
-          "stars": 47462,
+          "stars": 47468,
           "starsToday": null,
           "topics": [
             "airflow",
@@ -1180,11 +1180,11 @@
             "etl"
           ],
           "forks": 18350,
-          "openIssues": 1903,
+          "openIssues": 1899,
           "archived": false,
           "createdAt": "2015-04-13T18:04:58Z",
-          "pushedAt": "2026-11-12T16:41:42Z",
-          "sizeKb": 810188,
+          "pushedAt": "2026-11-13T07:11:27Z",
+          "sizeKb": 815010,
           "direction": "自动化与效率工具"
         },
         {
@@ -1192,10 +1192,10 @@
           "url": "https://github.com/kestra-io/kestra",
           "source": "kestra-io/kestra",
           "summary": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
-          "publishedAt": "2026-11-12T16:50:13Z",
+          "publishedAt": "2026-11-13T07:18:00Z",
           "type": "trending",
           "language": "Java",
-          "stars": 30214,
+          "stars": 30221,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -1211,12 +1211,12 @@
             "infra-automation",
             "infra-ops"
           ],
-          "forks": 3528,
-          "openIssues": 652,
+          "forks": 3529,
+          "openIssues": 655,
           "archived": false,
           "createdAt": "2019-08-24T13:56:15Z",
-          "pushedAt": "2026-11-12T16:50:13Z",
-          "sizeKb": 158012,
+          "pushedAt": "2026-11-13T07:18:00Z",
+          "sizeKb": 157248,
           "direction": "自动化与效率工具"
         },
         {
@@ -1224,10 +1224,10 @@
           "url": "https://github.com/simstudioai/sim",
           "source": "simstudioai/sim",
           "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-          "publishedAt": "2026-11-12T17:12:02Z",
+          "publishedAt": "2026-11-13T07:20:52Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 30131,
+          "stars": 30132,
           "starsToday": null,
           "topics": [
             "agent-workflow",
@@ -1244,11 +1244,11 @@
             "low-code"
           ],
           "forks": 3906,
-          "openIssues": 343,
+          "openIssues": 325,
           "archived": false,
           "createdAt": "2025-01-05T22:47:49Z",
-          "pushedAt": "2026-11-12T17:12:02Z",
-          "sizeKb": 770579,
+          "pushedAt": "2026-11-13T07:20:52Z",
+          "sizeKb": 775636,
           "direction": "自动化与效率工具"
         },
         {
@@ -1259,7 +1259,7 @@
           "publishedAt": "2026-11-11T11:32:04Z",
           "type": "trending",
           "language": "TypeScript",
-          "stars": 279675,
+          "stars": 280064,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -1267,7 +1267,7 @@
             "dsh",
             "dsh-plugin"
           ],
-          "forks": 34435,
+          "forks": 34517,
           "openIssues": 0,
           "archived": false,
           "createdAt": "2026-08-13T11:56:32Z",
@@ -1280,10 +1280,10 @@
           "url": "https://github.com/storytold/photocraft",
           "source": "storytold/photocraft",
           "summary": "PhotoCraft: An open-source photo editor written from scratch in pure Rust",
-          "publishedAt": "2026-11-12T17:00:54Z",
+          "publishedAt": "2026-11-13T06:47:53Z",
           "type": "trending",
           "language": "Rust",
-          "stars": 78928,
+          "stars": 79049,
           "starsToday": null,
           "topics": [
             "art",
@@ -1294,12 +1294,12 @@
             "photo-editing",
             "rust"
           ],
-          "forks": 13955,
-          "openIssues": 4110,
+          "forks": 13968,
+          "openIssues": 4150,
           "archived": false,
           "createdAt": "2026-09-30T13:37:48Z",
-          "pushedAt": "2026-11-12T17:00:54Z",
-          "sizeKb": 182998,
+          "pushedAt": "2026-11-13T06:47:53Z",
+          "sizeKb": 183604,
           "direction": null
         },
         {
@@ -1310,10 +1310,10 @@
           "publishedAt": "2026-11-12T03:51:49Z",
           "type": "trending",
           "language": "HTML",
-          "stars": 75320,
+          "stars": 75438,
           "starsToday": null,
           "topics": [],
-          "forks": 6676,
+          "forks": 6685,
           "openIssues": 15,
           "archived": false,
           "createdAt": "2026-09-07T01:53:36Z",
@@ -1329,7 +1329,7 @@
           "publishedAt": "2026-11-11T09:33:36Z",
           "type": "trending",
           "language": "JavaScript",
-          "stars": 71188,
+          "stars": 71815,
           "starsToday": null,
           "topics": [
             "ai-agents",
@@ -1343,7 +1343,7 @@
             "model-provider",
             "openai-compatible"
           ],
-          "forks": 1934,
+          "forks": 1963,
           "openIssues": 170,
           "archived": false,
           "createdAt": "2026-09-24T16:17:19Z",
@@ -1359,7 +1359,7 @@
           "publishedAt": "2026-11-11T13:26:26Z",
           "type": "trending",
           "language": "Python",
-          "stars": 56890,
+          "stars": 57131,
           "starsToday": null,
           "topics": [
             "adb",
@@ -1375,8 +1375,8 @@
             "launcher",
             "privacy"
           ],
-          "forks": 7328,
-          "openIssues": 226,
+          "forks": 7378,
+          "openIssues": 242,
           "archived": false,
           "createdAt": "2026-10-17T08:12:35Z",
           "pushedAt": "2026-11-11T13:26:26Z",
@@ -1388,10 +1388,10 @@
           "url": "https://github.com/boykopovar/AnyPS5",
           "source": "boykopovar/AnyPS5",
           "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
-          "publishedAt": "2026-11-12T17:11:45Z",
+          "publishedAt": "2026-11-13T07:22:51Z",
           "type": "trending",
           "language": "C++",
-          "stars": 53415,
+          "stars": 53550,
           "starsToday": null,
           "topics": [
             "anyps5",
@@ -1402,12 +1402,12 @@
             "spir-v",
             "vulkan"
           ],
-          "forks": 5079,
-          "openIssues": 2002,
+          "forks": 5099,
+          "openIssues": 1756,
           "archived": false,
           "createdAt": "2026-08-03T21:30:25Z",
-          "pushedAt": "2026-11-12T17:11:45Z",
-          "sizeKb": 236379,
+          "pushedAt": "2026-11-13T07:22:51Z",
+          "sizeKb": 242774,
           "direction": null
         }
       ]
@@ -1483,84 +1483,84 @@
       "name": "行业动态",
       "items": [
         {
-          "title": "Show HN: Armin – Modern Anki alternative with prerrequisite graphs",
-          "url": "https://armincards.app/",
-          "source": "armincards.app",
-          "summary": "okay, so a bit of context. back when i was studying at college, i was trying to optimize my learning process as much as possible, and i ended up discovering Anki and spaced-repetition as a concept. i ended up using Anki for quite a while and it did help me. i loved the concept... but i didn&#x27;t like the app. it had me conflicted. on one hand, it allowed me to properly review the content from my classes (among other stuff), but on the other it had way too many quirks and complicated ways of handling things that i wasn&#x27;t a fan of (in particular, the UX leaves a lot to be desired, although it has marginally improved in recent years). i ended up churning from Anki and just abandoning the practice of spaced repetition altogether. after some time, i ended up reading this article recommended by Justin Skycak https:&#x2F;&#x2F;lelouch.dev&#x2F;blog&#x2F;you-are-probably-not-dumb&#x2F; . the tldr is that knowledge has prerrequisites, and if you don&#x27;t have them, you won&#x27;t fully understand what you are trying to learn in the first place. and that was one of my annoyances with Anki. as i kept reviewing stuff (especially pre-made decks) Anki assumes all knowledge is in the same layer of understanding. it assumes that each flashcard is independent from the others, and that makes it difficult to actually progress while trying to learn a particular topic. Justin Skycak (the guy from Math Academy) ended up implementing spaced-repetition + prerrequisite graphs for math learning, and there i ended up seeing we could extend the concept more generally. one of the things Math Academy made me realize is that if we combine spaced-repetition (i.e. when we should review a card) with prerrequisite graphs (i.e. we keep unlocking new knowledge as we learn the prerrequisites), we can learn things more clearly and in a more structured way. that&#x27;s where my &quot;bet&quot; goes. i want something like Anki, but with the option to create a graph of prerrequisites (e.g. you can&#x27;t learn Y until you properly learn X). that&#x27;s Armin. among other stuff, i also tried to fix some of the annoyances i had with Anki and make it as intuitive as possible to use. this is a non-exhaustive list of the things i worked on for this app: - UI polish of the interface. i tried to make it as intuitive as possible. - MCP server for letting agents read, edit and manage cards and decks. in particular, the MCP server is very useful for creating flashcards from any existing content you have. just point your agent to a resource (e.g. a pdf) and it will take its content and transform it into a deck with flashcards with its prerrequisites graph already created. - Anki-compatibility with caveats. the app supports bringing your existing Anki decks for most decks out there. however, some decks have custom cards that are not so easy to integrate seamlessly. there are plans to support custom cards in the future, but for now they are not implemented. - graph view that shows all your flashcards. in here, you can create a graph of prerrequisites and further structure your decks. - &quot;concept cards&quot;. they work more like exercises. you provide the template of an exercise (e.g. how to calculate a derivative) and an agent creates variations of that same type of exercise while changing the details (like the values). we also have a paid plan for creating way more flashcards and use &quot;concept&quot; cards, but i built the free plan with generous limits so you can test the app without any issue. to be honest, i want the app to be as flexible as possible, and most people will probably only need the free plan. but hey, if you find it too tight, please hit me up and i&#x27;ll see how i can improve the experience for everyone. the app is open source and MIT-licensed. you can find it here https:&#x2F;&#x2F;github.com&#x2F;andy-spike&#x2F;armin as for the rest, it is the same you would expect from a spaced-repetition flashcard app. please try it out and tell me what you think of it!",
-          "publishedAt": "2026-11-12T16:03:33Z",
+          "title": "Show HN: Talgent Workbench – Open-source managed agent platform you run yourself",
+          "url": "https://github.com/talgent-work/workbench",
+          "source": "github.com",
+          "summary": "",
+          "publishedAt": "2026-11-13T07:26:55Z",
           "type": "news",
           "stars": null,
           "points": 1
         },
         {
-          "title": "Show HN: Jarvis Live – open-source voice agent that runs on your own computer",
-          "url": "https://github.com/samukbg/Jarvis-Live",
+          "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+          "url": "https://github.com/pharma2a/pharma2a",
+          "source": "github.com",
+          "summary": "I&#x27;m a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. The idea is to automatise orders of selling and buying between pharmacies and their suppliers. Since 12 November, PharmA2A is live on GH. Is anyone of you is using A2A in real life ?",
+          "publishedAt": "2026-11-13T04:58:53Z",
+          "type": "news",
+          "stars": null,
+          "points": 5
+        },
+        {
+          "title": "Show HN: Woolly – Take your ChatGPT memory with you, local and open source",
+          "url": "https://github.com/rjcuff/woolly",
           "source": "github.com",
           "summary": "",
-          "publishedAt": "2026-11-12T15:41:45Z",
+          "publishedAt": "2026-11-13T02:56:57Z",
           "type": "news",
           "stars": null,
           "points": 2
         },
         {
-          "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
-          "url": "https://getvale.org",
-          "source": "getvale.org",
-          "summary": "We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source. You can try the live demo (credentials included), explore the source code, and read the documentation here: Try live demo: https:&#x2F;&#x2F;getvale.org&#x2F;try-vale Source: https:&#x2F;&#x2F;github.com&#x2F;MIDILLI-Tech&#x2F;vale&#x2F; Docs: https:&#x2F;&#x2F;docs.getvale.org If you have any feedback, comments, or questions, I&#x27;d be happy to answer them!",
-          "publishedAt": "2026-11-12T15:35:54Z",
-          "type": "news",
-          "stars": null,
-          "points": 7
-        },
-        {
-          "title": "Claude Code's API billing depends on how often the cache expires",
-          "url": "https://news.ycombinator.com/item?id=50467233",
-          "source": "news.ycombinator.com",
-          "summary": "Hello, HN! I’m Max, CTO at Hystax. We use Claude a lot in our development work, and we’re also trying to make coding agents cheaper to run. We built the open-source Kompressor for compressing identical tool outputs that agents constantly resend. In our Codex tests, we noticed a real cost reduction of 22.7%. But testing it with Claude Code, we found something completely different. In Claude Code, the cache plays a more crucial role than compression. Claude Code marks its messages with caching points. As a result, almost every request consists of a long cached prefix and a new, truncated final part. Based on practical experience with Opus 5.5, reading from the cache appears to cost $0.20 per million tokens, accounting for about 92–95% of the tokens charged for prompts. Meanwhile, a five-minute cache entry costs $5, which is 25 times more expensive than reading from the cache. When an agent needs to run a build or a longer training cycle, they face the problem of the cache expiring. The next request then has to write the prefix to the cache again. We saw this 33 times in a cycle of 89-task runs without compression. As a result, 927,000 tokens were rewritten, which is approximately one-third of the volume billed in full. Until now, we’ve deliberately left the Claude Code text uncompressed because overwriting any byte within a cached prefix would very likely cause it to become invalid. But here’s what we came up with instead: – Compress only the uncached part. On the first transmission, only the new part is compressed. Everything already cached stays byte-for-byte unchanged. Fragments shorter than 4,000 characters are sent in full, since compressing each fragment would be much more expensive than sending the entire dialogue as is. – Keep the cache active while the tools are running; don’t let it expire. While the agent waits for a tool response (model building&#x2F;training), Kompressor resends the last request every 4.5 minutes with max_tokens: 1, so Anthropic re-reads the cached dialogue, and the five-minute timer restarts. Pings stop on the agent’s next request, after ~50 min, on the first failed attempt, or if a ping finds nothing in the cache. – Switch to the one-hour cache only when necessary. After the first pause longer than 5 min, Kompressor requests a one-hour cache for that conversation. We ran Claude Code on the Opus 5.5 model through the Terminal-Bench 2.1 benchmark (89 tasks) and calculated the cost based on Anthropic&#x27;s actual billing, including pings. The cost per run decreased from $35.35 to $28.30 (-20%). The percentage of tasks solved by the agent without compression was 89.9%, and 90.6% when using Kompressor. The number of tokens lost due to cache expiration decreased from 927,000 to 13,000. But there’s a caveat: the agent never solves the same task twice in exactly the same way, and the entire difference came down to just 4 out of the 89 tasks. We expect these savings to persist from run to run: about 11% from keeping the cache up to date, and a few more percentage points from compression. This effect is most noticeable on tasks where the agent waits a long time – more than five minutes – for a command to execute: model training, compilation, and long simulations. In those cases, costs decreased by 34%. To try Kompressor, see the GitHub repo below. Setup is in the README. The default configuration already includes compression of new text only and a switch to an hourly cache on long pauses; “keep-warm” is off (the only request that the proxy sends on its own). To enable, add to your config: [proxy.providers.anthropic] cache_keep_warm = true and then run: kompressor wrap claude The benchmark above was run with all these settings enabled. Here are cost calculations: https:&#x2F;&#x2F;optscale.ai&#x2F;blog&#x2F;claude-code-prompt-caching If you run long tasks in Claude Code, how often does the cache expire while a tool is still running? Have you seen this with other providers too?",
-          "publishedAt": "2026-11-12T14:02:38Z",
-          "type": "news",
-          "stars": null,
-          "points": 2
-        },
-        {
-          "title": "Show HN: Silos, An open source (MIT) CLI sandbox orchestrator for local agents",
-          "url": "https://github.com/SilosLabs/silo-cli",
+          "title": "Show HN: Zipzi – Open-source Live2D Editor alternative with AI-assisted editing",
+          "url": "https://github.com/getzipzi/zipzi-2d",
           "source": "github.com",
           "summary": "",
-          "publishedAt": "2026-11-12T13:47:02Z",
+          "publishedAt": "2026-11-13T02:54:37Z",
+          "type": "news",
+          "stars": null,
+          "points": 1
+        },
+        {
+          "title": "Show HN: AgentLeak – open-source privacy testing for multi-agent LLM systems",
+          "url": "https://github.com/Privatris/AgentLeak",
+          "source": "github.com",
+          "summary": "",
+          "publishedAt": "2026-11-13T01:36:36Z",
           "type": "news",
           "stars": null,
           "points": 3
         },
         {
-          "title": "Show HN: Wordout, an open-source daily word game with no server",
-          "url": "https://dilippanicker.github.io/wordout/play/",
-          "source": "dilippanicker.github.io",
+          "title": "League of Legends Draft Recommender System (open-source itero.gg)",
+          "url": "https://github.com/angelotc/lol-companion",
+          "source": "github.com",
           "summary": "",
-          "publishedAt": "2026-11-12T10:00:49Z",
+          "publishedAt": "2026-11-12T21:40:13Z",
           "type": "news",
           "stars": null,
           "points": 1
         },
         {
-          "title": "Show HN: Open-Source Audit of 1.58M Harvard Orbits and Vera Rubin Predictions",
-          "url": "https://github.com/Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture/",
-          "source": "github.com",
-          "summary": "",
-          "publishedAt": "2026-11-12T06:18:10Z",
-          "type": "news",
-          "stars": null,
-          "points": 4
-        },
-        {
-          "title": "Show HN: Motion Debugger – A browser critic for AI slop",
-          "url": "https://github.com/ShadowKingYT444/motion-debugger",
-          "source": "github.com",
-          "summary": "Built a tool to unslop UI and add cool motion. It&#x27;s an open-source workflow for coding agents, using Chromium to inspect the rendered site, catch broken animations, overlapping elements, layout issues, and other visual problems, then gives the agent feedback to fix them. a&#x2F;b tests are in the repo.",
-          "publishedAt": "2026-11-12T01:53:52Z",
+          "title": "Show HN: Easy Dashcam – open-source Android app for a Wi-Fi dashcam",
+          "url": "https://news.ycombinator.com/item?id=50472635",
+          "source": "news.ycombinator.com",
+          "summary": "I created Easy Dashcam to ditch an app called viidure which it&#x27;s super slow and request gps permission and does no allow background downloads. The camera name in the box is Reddot Dashcam and in About this camera reports 1084-w90-WIFI-7789 and firmware 20250306 V1.0. The app connects over the camera’s local Wi-Fi connection. It can show live video and audio, browse and download recordings, play them back, and change camera settings. The camera protocol was reverse-engineered because I couldn’t find any standard for this type of camera I’d like to support more cameras eventually, specially cheap Chinese models. I’m looking for owners who can help test whether their cameras use the same GPSOCKET protocol or require a different implementation or people who would like to contribute. Source and demo: https:&#x2F;&#x2F;github.com&#x2F;juanmespina&#x2F;EasyDashcam The app connects over the camera’s local Wi-Fi connection. It can show live video and audio, browse and download recordings, play them back, and change camera settings. The camera protocol was reverse-engineered because I couldn’t find any standard for this type of camera I’d like to support more cameras eventually, specially cheap Chinese models. I’m looking for owners who can help test whether their cameras use the same GPSOCKET protocol or require a different implementation or people who would like to contribute. Source and demo: https:&#x2F;&#x2F;github.com&#x2F;juanmespina&#x2F;EasyDashcam",
+          "publishedAt": "2026-11-12T19:14:26Z",
           "type": "news",
           "stars": null,
           "points": 1
+        },
+        {
+          "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+          "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+          "source": "github.com",
+          "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations - Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. You can self-host it (see 1-click install on Render) with an OpenRouter key, or try the hosted version at console.agentrun.ai. We’d love feedback, especially on the architecture (see README), or anything we may be missing to make it useful to you.",
+          "publishedAt": "2026-11-12T18:15:48Z",
+          "type": "news",
+          "stars": null,
+          "points": 93
         }
       ]
     },
@@ -1569,58 +1569,58 @@
       "name": "精选论文与技术文章",
       "items": [
         {
-          "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
-          "url": "http://arxiv.org/abs/2611.14492v1",
+          "title": "Where LLM Agents Get Stuck Debugging Databases: Access More Than Reasoning",
+          "url": "http://arxiv.org/abs/2611.17304v1",
           "source": "arXiv",
-          "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrac",
-          "publishedAt": "2026-11-10T18:49:47Z",
+          "summary": "Large language model (LLM) coding agents are increasingly asked not only to write code but to debug running systems from live runtime data. We report a field observation of one such agent (Claude Code) as it diagnosed eight database incidents in a production message-dispatch engine. In every inciden",
+          "publishedAt": "2026-11-12T18:56:22Z",
           "type": "paper",
-          "authors": "Kaiyuan Hou"
+          "authors": "Gustavo Pinto"
         },
         {
-          "title": "Cognitive Mapping of Learning by Thinking Mechanisms in Large Language Models",
-          "url": "http://arxiv.org/abs/2611.14382v1",
+          "title": "Programming Quantum Circuit Parameters with Large Language Models",
+          "url": "http://arxiv.org/abs/2611.17246v1",
           "source": "arXiv",
-          "summary": "Large language models (LLMs) increasingly exhibit capabilities that resemble human Learning by Thinking (LbT), the acquisition of new insight through internal processes such as explanation and reasoning, without new external input. A systematic account of the cognitive mechanisms behind these capabi",
-          "publishedAt": "2026-11-10T17:37:13Z",
+          "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this approach is effective remain unclear. Here, we investigate a frozen, general-purpose LLM that genera",
+          "publishedAt": "2026-11-12T18:34:23Z",
           "type": "paper",
-          "authors": "Dong Han"
+          "authors": "Tiago de Souza Farias"
         },
         {
-          "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
-          "url": "http://arxiv.org/abs/2611.14333v1",
+          "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+          "url": "http://arxiv.org/abs/2611.17241v1",
           "source": "arXiv",
-          "summary": "Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large ",
-          "publishedAt": "2026-11-10T16:56:16Z",
+          "summary": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumption is that more powerful and more expensive models consistently yield better heuristics. We challenge",
+          "publishedAt": "2026-11-12T18:28:08Z",
           "type": "paper",
-          "authors": "Zihan Chen"
+          "authors": "Samidha Verma"
         },
         {
-          "title": "Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US",
-          "url": "http://arxiv.org/abs/2611.14288v1",
+          "title": "Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models",
+          "url": "http://arxiv.org/abs/2611.17235v1",
           "source": "arXiv",
-          "summary": "Although large language models have demonstrated strong performance on algorithmic and mathematical tasks, their suitability as social science research assistants remains unclear, particularly because many social science questions lack agreed-upon, quantifiable benchmark answers. Evaluating this sui",
-          "publishedAt": "2026-11-10T16:28:07Z",
+          "summary": "This paper presents Al Ghasali, a computational framework designed to formalize and simulate Islamic jurisprudential (Fiqh) rulings. Building upon recent set theoretic formalizations of al sabr wa al Taqsim that extract minimal operational rules as simple Horn clause logical programs, this work prov",
+          "publishedAt": "2026-11-12T18:23:56Z",
           "type": "paper",
-          "authors": "Yuan Zhang"
+          "authors": "Elnaserledinellah Mahmoud Abdelwahab"
         },
         {
-          "title": "LM-SimBench: A Unified Framework, Dataset, and Benchmark for Large Language Model Training Simulation",
-          "url": "http://arxiv.org/abs/2611.14285v1",
+          "title": "PACER: GPU Excursion Management for ML Workloads",
+          "url": "http://arxiv.org/abs/2611.17206v1",
           "source": "arXiv",
-          "summary": "Evaluating candidate parallelization strategies through distributed training runs makes strategy selection prohibitively expensive at scale. Performance simulation offers a lower cost alternative, yet controlled comparisons among existing simulators remain difficult because they differ in the traini",
-          "publishedAt": "2026-11-10T16:26:19Z",
+          "summary": "Variability is an inherent characteristic of modern GPU systems, arising from a combination of process variation, dynamic environmental conditions, and power management decisions. Prior work has characterized inter-GPU variability and found consistent performance differences across GPUs. However, we",
+          "publishedAt": "2026-11-12T18:06:53Z",
           "type": "paper",
-          "authors": "Yu Dong"
+          "authors": "Rutwik Jain"
         },
         {
-          "title": "Chain of Physics: Supporting Fault Diagnosis with Engineering-Inspired Large Language Model Reasoning",
-          "url": "http://arxiv.org/abs/2611.14263v1",
+          "title": "Preserve the Vulnerability, Break the Alert: Testing the Robustness of CodeQL Taint Tracking with Natural Rewrites",
+          "url": "http://arxiv.org/abs/2611.17123v1",
           "source": "arXiv",
-          "summary": "Fault diagnosis in complex systems requires linking observed changes in physical quantities to the failure mechanisms that produce them. Experienced engineers perform this task by combining sensor information with knowledge of system behavior and fault propagation. Large Language Models (LLMs) can s",
-          "publishedAt": "2026-11-10T16:09:44Z",
+          "summary": "Static application security testing (SAST) tools such as CodeQL serve as security gates in continuous integration and code review, and a gate is also read in reverse. When a previously reported alert disappears after a change, developers and the tools around them often take the vulnerability to be g",
+          "publishedAt": "2026-11-12T17:16:08Z",
           "type": "paper",
-          "authors": "Wenqi Zhou"
+          "authors": "Zhezhen Cao"
         }
       ]
     },
@@ -1633,10 +1633,10 @@
           "url": "https://github.com/vinta/awesome-python",
           "source": "vinta/awesome-python",
           "summary": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-          "publishedAt": "2026-11-08T14:42:33Z",
+          "publishedAt": "2026-11-13T05:14:16Z",
           "type": "tips",
           "language": "Python",
-          "stars": 334261,
+          "stars": 334404,
           "starsToday": null,
           "topics": [
             "awesome",
@@ -1646,12 +1646,12 @@
             "python-libraries",
             "python-tools"
           ],
-          "forks": 29087,
-          "openIssues": 24,
+          "forks": 29094,
+          "openIssues": 23,
           "archived": false,
           "createdAt": "2014-06-27T21:00:06Z",
-          "pushedAt": "2026-11-08T14:42:33Z",
-          "sizeKb": 7034,
+          "pushedAt": "2026-11-13T05:14:16Z",
+          "sizeKb": 7026,
           "direction": null,
           "tag": "清单/教程"
         },
@@ -1663,7 +1663,7 @@
           "publishedAt": "2026-10-31T18:08:05Z",
           "type": "tips",
           "language": "Python",
-          "stars": 188422,
+          "stars": 188531,
           "starsToday": null,
           "topics": [
             "awesome",
@@ -1671,8 +1671,8 @@
             "hellogithub",
             "python"
           ],
-          "forks": 13260,
-          "openIssues": 1324,
+          "forks": 13269,
+          "openIssues": 1337,
           "archived": false,
           "createdAt": "2016-05-04T06:24:11Z",
           "pushedAt": "2026-10-31T18:08:05Z",
@@ -1688,7 +1688,7 @@
           "publishedAt": "2026-10-31T07:24:05Z",
           "type": "tips",
           "language": null,
-          "stars": 51345,
+          "stars": 51354,
           "starsToday": null,
           "topics": [
             "applications",
@@ -1704,8 +1704,8 @@
             "macos-application",
             "macosx"
           ],
-          "forks": 3330,
-          "openIssues": 539,
+          "forks": 3333,
+          "openIssues": 546,
           "archived": false,
           "createdAt": "2017-11-03T02:35:33Z",
           "pushedAt": "2026-10-31T07:24:05Z",
@@ -1721,7 +1721,7 @@
           "publishedAt": "2026-09-26T00:44:47Z",
           "type": "tips",
           "language": null,
-          "stars": 37738,
+          "stars": 37740,
           "starsToday": null,
           "topics": [
             "artificial-intelligence",
@@ -1737,7 +1737,7 @@
             "nlp",
             "nlp-projects"
           ],
-          "forks": 7544,
+          "forks": 7545,
           "openIssues": 71,
           "archived": false,
           "createdAt": "2021-01-02T12:08:37Z",
@@ -1754,7 +1754,7 @@
           "publishedAt": "2026-08-21T18:52:45Z",
           "type": "tips",
           "language": null,
-          "stars": 30914,
+          "stars": 30917,
           "starsToday": null,
           "topics": [
             "agent",
@@ -1770,8 +1770,8 @@
             "gpt-engineer",
             "openai"
           ],
-          "forks": 3795,
-          "openIssues": 1296,
+          "forks": 3797,
+          "openIssues": 1299,
           "archived": false,
           "createdAt": "2023-06-19T00:20:06Z",
           "pushedAt": "2026-08-21T18:52:45Z",
@@ -1817,10 +1817,10 @@
           "url": "https://github.com/ultralytics/ultralytics",
           "source": "ultralytics/ultralytics",
           "summary": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-          "publishedAt": "2026-11-12T16:53:56Z",
+          "publishedAt": "2026-11-13T07:10:08Z",
           "type": "trending",
           "language": "Python",
-          "stars": 63325,
+          "stars": 63335,
           "starsToday": null,
           "topics": [
             "computer-vision",
@@ -1840,8 +1840,8 @@
           "openIssues": 78,
           "archived": false,
           "createdAt": "2022-09-11T16:39:45Z",
-          "pushedAt": "2026-11-12T16:53:56Z",
-          "sizeKb": 66866,
+          "pushedAt": "2026-11-13T07:10:08Z",
+          "sizeKb": 67029,
           "direction": "机器学习与计算机视觉",
           "tag": "清单/教程"
         },
@@ -1869,7 +1869,7 @@
             "pytorch",
             "tensorrt"
           ],
-          "forks": 17435,
+          "forks": 17434,
           "openIssues": 26,
           "archived": false,
           "createdAt": "2020-05-18T03:45:11Z",
@@ -1886,7 +1886,7 @@
           "publishedAt": "2026-11-07T16:59:51Z",
           "type": "trending",
           "language": "Python",
-          "stars": 10638,
+          "stars": 10639,
           "starsToday": null,
           "topics": [
             "computer-vision",
@@ -1919,7 +1919,7 @@
           "publishedAt": "2026-10-27T11:47:12Z",
           "type": "trending",
           "language": "C++",
-          "stars": 861,
+          "stars": 862,
           "starsToday": null,
           "topics": [
             "computervision",
@@ -1949,8 +1949,8 @@
           "stars": 37310,
           "starsToday": null,
           "topics": [],
-          "forks": 53058,
-          "openIssues": 16,
+          "forks": 53056,
+          "openIssues": 17,
           "archived": false,
           "createdAt": "2013-04-29T18:26:36Z",
           "pushedAt": "2026-11-11T01:03:22Z",
@@ -1966,7 +1966,7 @@
           "publishedAt": "2026-09-18T07:16:11Z",
           "type": "trending",
           "language": "Python",
-          "stars": 79335,
+          "stars": 79377,
           "starsToday": null,
           "topics": [
             "agent-skills",
@@ -1982,7 +1982,7 @@
             "gemini-cli",
             "mcp"
           ],
-          "forks": 9677,
+          "forks": 9682,
           "openIssues": 1892,
           "archived": false,
           "createdAt": "2025-10-17T07:15:01Z",
